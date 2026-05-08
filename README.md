@@ -1,1 +1,1 @@
-# TI-OSv3.10-Compatible
+# TI-OS-v3.10-Compatible
