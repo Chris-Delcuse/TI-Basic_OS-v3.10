@@ -9,12 +9,11 @@
 :
 :ClrErr
 :
-:Local a,b,ch,strc,strl
+:Local a,ch,strc,strl
 :
 :setMode("Base","DEC")
 :
 :0→a
-:0→b
 :1→strsz
 :""→strc
 :""→ch
@@ -30,9 +29,8 @@
 :
 :For a,1,strsz,1
 : left(str,a)→strl
-: 1+b→b
 : right(strl,1)→ch
-: ord(ch)→chlst[b]
+: ord(ch)→chlst[a]
 :EndFor
 :
 :EndPrgm
