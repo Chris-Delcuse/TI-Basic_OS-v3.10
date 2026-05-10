@@ -1,7 +1,7 @@
 :CstmKill()
 :Prgm
 :
-:© Real Custom Off Prgm
+:© Real CustmOff Prgm
 :
 :Try
 : Custom
