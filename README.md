@@ -2,7 +2,7 @@
 
 I am compiling here the knowledge I have of this OS.
 
-CustmKill() represents a new direction in basic development.
+CustmKill() represents a new direction in TI-basic development.
 
 I'm also taking advantage of not having a computer to provide code excerpts from personal files.
 
