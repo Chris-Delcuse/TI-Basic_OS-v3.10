@@ -1,6 +1,6 @@
 # TI-Basic_OS-v3.10
 
-I am compiling here the knowledge I have of this OS.
+I am compiling here the knowledge I have of this OS, more specifically the TI-89.
 
 CustmKill() represents a new direction in TI-basic development.
 
