@@ -19,7 +19,7 @@
 :getConfg()[10]→gcg
 :
 :If gcg>160 Then
-: 238→x
+: 238→w
 : -102→h
 :Else
 : 158→w
