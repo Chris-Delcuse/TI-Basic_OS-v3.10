@@ -9,7 +9,4 @@ INSTRING2
 ISSTRING
 
 - Enrich your programs requiring user input
-
-Nota Placet :
- - local variables usage
- - For declared variables, prefer 'getType()'
+( For declared variables, prefer 'getType()' )
