@@ -1,4 +1,4 @@
-# TI-Basic_OS-v3.10
+8# TI-Basic_OS-v3.10
 
 I gather here, the knowledge i have of this OS, especially the TI-89.
 
@@ -9,5 +9,3 @@ I'm also taking advantage of not having computer, to provide code devoid of pers
 This repository is designed for those who want to fully utilize the basic programming functions.
 
 Pure TI-Basic !
-
-Note : (This repository is not intended to be added to your sources.list)
