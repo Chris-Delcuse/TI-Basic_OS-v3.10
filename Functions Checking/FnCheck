@@ -31,7 +31,7 @@
 :If m="FUNCTION" Then
 : "y"→eq
 : "(x)"→var
-: EndIf
+:EndIf
 :
 :If m="PARAMETRIC" Then
 : "yt"→eq
@@ -45,7 +45,7 @@
 :
 :If m="SEQUENCE" Then
 : "ui"→eq
-: EndIf
+:EndIf
 :
 :If m="3D" Then
 : "z"→eq
