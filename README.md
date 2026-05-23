@@ -6,6 +6,6 @@ I'm also taking advantage of not having computer, to provide code devoid of pers
 
 This repository is primarily intended for those who want to fully utilize their devices' coding Basic features.
 
-I wihh you will fînd here, Inspiration, help, motivation !
+I wish you will fînd here, Inspiration, help, motivation ! I know just how bad are Texans at being hospitable :)
 
 Pure TI-Basic !
