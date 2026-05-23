@@ -4,6 +4,6 @@ CustmKill() represents a new direction in TI-basic development, really differren
 
 I'm also taking advantage of not having computer, to provide code devoid of personal files.
 
-This repository is designed for those who want to fully utilize the basic programming functions.
+This repository is primarily intended for those who want to take full advantage of their devices' basic features.
 
 Pure TI-Basic !
