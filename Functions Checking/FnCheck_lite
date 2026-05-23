@@ -1,1 +1,38 @@
-
+:FnCheck()
+:Prgm
+:
+:© Check available
+:© Entries in graph mode
+:© Returns list → fnlst
+:© "FUNCTION" Only
+:
+:ClrErr
+:
+:DelVar fnlst
+:
+:Local c,eq,var,eqs
+:Local eqsv,smea
+:
+:setMode("Exact/Approx","AUTO")→smea
+:setMode("Base","DEC")
+:
+:0→c
+:0→eqsv
+:{}→fnlst
+:"y"→eq
+:""→eqs
+:"(x)"→var
+:
+:For c,1,99,1
+: eq&string(c)&var→eqs
+: expr(eqs)→eqsv
+: If string(eqsv)≠eqs Then
+:  1→fnlst[c]
+: Else
+:  0→fnlst[c]
+: EndIf
+:EndFor
+:
+:setMode("Exact/Approx",smea)
+:
+:EndPrgm
