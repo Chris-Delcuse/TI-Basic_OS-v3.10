@@ -4,7 +4,10 @@ The use of,
 all the name functions into the CATALOG,
 as well as system variables
 in the VAR-LINK menu are to be excluded
-or even banned as user variables name.
+or even banned as USER variables name.
+
+Pay close attention when creating your
+variables !
 
 The use of system variables
 in your programs is reserved
