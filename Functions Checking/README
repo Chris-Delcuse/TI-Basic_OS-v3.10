@@ -10,3 +10,4 @@ Fncheck_lite
 - Also to Find out available locations before using 'Define'.
 ( here only in graph mode FUNCTION )
 - To be easyly included in a folder for your dedicated programs, intended for other users.
+- Can also standing in the main folder for performance gain.
