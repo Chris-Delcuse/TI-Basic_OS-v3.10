@@ -7,6 +7,8 @@ in the VAR-LINK menu are to be excluded
 or even banned from your programs 
 as user variables name.
 
-However, there are a few rare exceptions.
+The use of system variables
+in your programs is reserved
+for system configuration.
 
 More help, see user manual
