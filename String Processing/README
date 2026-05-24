@@ -8,8 +8,9 @@ INSTRING2
 
 ISSTRING ( originally written for OS2 )
 
-Important : For Basic-Devs Prgm(Your_Argument)
-Argument = Local VAR-> so in RAM
+Important For Basic-Devs :
+Prgm(Your_Argument)
+Argument = Local VAR -> so in RAM
 
 Check that the argument is a string,
 for variables that are in RAM or ́local’
