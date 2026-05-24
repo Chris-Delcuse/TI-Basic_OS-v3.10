@@ -7,7 +7,5 @@ FnCheck
 
 Fncheck_lite
 
-- Also to Find out available locations, before using 'Define'.
+- Also to Find out available locations here only in graph mode FUNCTION, before using 'Define'.
 - To be easyly included in a folder for your dedicated programs intended for other users.
-
-Now you have FnCheck_Full & FnCheck-Lite, esay to lite every graph mode.
