@@ -16,4 +16,7 @@ for TI.
 
 
 Note :
-If we allow a comparison with Android, it seems complicated, but today we know that for obvious security and permission reasons, it's necessary to process variables in RAM before granting permissions. This program was written 25 years ago.
+If we allow a comparison with Android, it seems complicated, but today we know that for obvious security and permission reasons, it's necessary to process variables in RAM before granting permissions. 
+and using gettype() right away by renaming the variable is an easy solution.
+
+This few lines was written 25 years ago.
