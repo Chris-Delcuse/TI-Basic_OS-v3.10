@@ -1,3 +1,7 @@
 Warning !
 
-All name functions of the CATALOG as well as the system variables in the VAR-LINK are to be excluded or even banned from your programs as user variables.
+Usage of all name functions into the CATALOG,
+as well as the system variables,
+in the VAR-LINK are to be excluded
+or even banned from your programs 
+as user variables name.
