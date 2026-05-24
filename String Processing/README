@@ -8,7 +8,6 @@ INSTRING2
 
 ISSTRING ( originally written for OS2 )
 
-To secure your programs that require
-argument user input directly in RAM.
+Check that the argument is a string, for variables that are in RAM or locally for TI.
 
 (For declared variables, prefer 'getType()')
