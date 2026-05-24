@@ -8,6 +8,8 @@ INSTRING2
 
 ISSTRING ( originally written for OS2 )
 
-Check that the argument is a string, for variables that are in RAM or locally for TI.
+Check that the argument is a string,
+for variables that are in RAM or ́local’
+for TI.
 
 (For declared variables, prefer 'getType()')
