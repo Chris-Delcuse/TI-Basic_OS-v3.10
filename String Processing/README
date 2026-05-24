@@ -12,3 +12,5 @@ To secure your programs that require
 argument user input as In-RAM-String.
 
 (For declared variables, prefer 'getType()')
+
+c’est pour traiter une variable en ram faut le dire en quelle langue ?
