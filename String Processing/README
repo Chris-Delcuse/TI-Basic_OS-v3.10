@@ -6,7 +6,7 @@ INSTRING2
 - or running a custom font,
 - ...
 
-ISSTRING
+ISSTRING ( originally written for OS2 )
 
 To secure your programs that require users
 to enter a SPECIFIC string of characters.
