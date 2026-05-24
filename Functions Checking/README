@@ -1,2 +1,10 @@
 Usefull to :
+
+FnCheck
+
 - Find out available locations, before using "Define f(x)=".
+- Standing as Basic-Lib in the main folder for your privaate program.
+
+Fncheck_lite
+- Also to Find out available locations, before using "Define f(x)=".
+- Being included in a folder for your programs intended for other users, also called a package on others devices than your favorite TI.
