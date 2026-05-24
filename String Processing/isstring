@@ -1,7 +1,7 @@
 :IsString(str)
 :Prgm
 :
-:© Check str is a string
+:© Check In Ram str is a string
 :© istr takes the value
 :© true or false
 :
@@ -13,8 +13,9 @@
 : false→istr
 :EndTry
 :
-:© With your personnal lines here
-:© Yan can change the prgm name
-;© & variable name
+:© Condition test here !
+:
+:© & Your code !
+;© Change prgm name & argument name !
 :
 :EndPrgm
