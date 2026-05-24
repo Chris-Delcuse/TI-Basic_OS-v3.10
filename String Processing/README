@@ -9,6 +9,6 @@ INSTRING2
 ISSTRING
 
 To secure your programs that require users
-to enter a specific string of characters.
+to enter a SPECIFIC string of characters.
 
 (For declared variables, prefer 'getType()')
