@@ -13,6 +13,8 @@
 : false→istr
 :EndTry
 :
-:© & your prgm here
+:© With your personnal line here
+:© Yan can change the prgm name
+;© & variable name
 :
 :EndPrgm
