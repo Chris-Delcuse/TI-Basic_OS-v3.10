@@ -9,6 +9,6 @@ INSTRING2
 ISSTRING ( originally written for OS2 )
 
 To secure your programs that require
-argument user input as in RAM string.
+argument user input as In-RAM-String.
 
 (For declared variables, prefer 'getType()')
