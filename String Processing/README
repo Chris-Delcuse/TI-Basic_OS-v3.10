@@ -13,3 +13,7 @@ for variables that are in RAM or ́local’
 for TI.
 
 (For declared variables, prefer 'getType()')
+
+
+Note :
+If we allow a comparison with Android, it seems complicated, but today we know that for obvious security and permission reasons, it's necessary to process variables in RAM before granting permissions. This program was written 25 years ago.
