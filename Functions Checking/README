@@ -2,10 +2,12 @@ Usefull to :
 
 FnCheck
 
-- Find out available locations, before using "Define f(x)=".
+- Find out available locations, before using 'Define'.
 - Standing as Basic-Lib in the main folder for your private programs.
 
 Fncheck_lite
 
-- Also to Find out available locations, before using "Define f(x)=".
-- To be easyly included in a folder for your dedicated programs intended for other users, also called a package on others devices than your favorite TI.
+- Also to Find out available locations, before using 'Define'.
+- To be easyly included in a folder for your dedicated programs intended for other users.
+
+Now you have FnCheck_Full & FnCheck-Lite, esay to lite every graph mode.
