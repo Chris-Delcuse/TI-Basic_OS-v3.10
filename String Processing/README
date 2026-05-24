@@ -21,5 +21,6 @@ If we allow a comparison with Android, it seems complicated, but today we know t
 and using gettype() right away by renaming the variable is an easy solution.
 
 This isn't about granting yourself access to your own machine for personal programs. It's about programs intended for other users, and especially about other users having physical access to your own machine.
+( Ex: In the classroom...)
 
 This few lines was written 25 years ago.
