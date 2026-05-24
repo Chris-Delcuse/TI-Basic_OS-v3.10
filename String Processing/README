@@ -10,7 +10,7 @@ ISSTRING ( originally written for OS2 )
 
 Check that the argument is a string,
 for variables that are in RAM or ́local’
-for TI.
+for Basic-Devs
 
 (For declared variables, prefer 'getType()')
 
