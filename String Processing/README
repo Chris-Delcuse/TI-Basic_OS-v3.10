@@ -9,6 +9,6 @@ INSTRING2
 ISSTRING ( originally written for OS2 )
 
 To secure your programs that require users
-to enter a SPECIFIC string of characters.
+input as SPECIFIC string of characters.
 
 (For declared variables, prefer 'getType()')
