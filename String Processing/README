@@ -14,7 +14,6 @@ Argument = 'Local' VAR -> so in RAM
 
 Check that the argument is a string,
 for variables that are in RAM or ́local’
-for Basic-Devs
 
 (For declared variables, prefer 'getType()')
 
