@@ -24,3 +24,4 @@ If we allow a comparison with Android, it seems complicated, but today we know t
 and using getType() right away by renaming the variable is an easy solution.
 
 This few lines was written 25 years ago.
+For me, it's proof that you can do it even if you don't know how to express it.
