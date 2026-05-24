@@ -8,7 +8,7 @@ INSTRING2
 
 ISSTRING ( originally written for OS2 )
 
-To secure your programs that require users
-input as SPECIFIC string of characters.
+To secure your programs that require argument
+user input as in RAM string.
 
 (For declared variables, prefer 'getType()')
