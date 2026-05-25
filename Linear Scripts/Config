@@ -1,4 +1,4 @@
 :DftCFG()
 :Prgm
-:setMode({"Graph","FUNCTION","Display Digits","FLOAT 6"
+:setMode({"Graph","FUNCTION","Display Digits","FLOAT 6","Angle","DEGREE","Exponential Format","NORMAL","Complex Format","REAL","Vector Format","RECTANGULAR","Pretry Print","ON"
 :EndPrgm
