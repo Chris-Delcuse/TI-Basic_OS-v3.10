@@ -14,7 +14,8 @@ are to be banned as user variables name.
 
 A pitfall to avoid :
 --------------------
-Just like with standard variables (list, string, etc.),
+Just like with standard variables
+(list, string, etc.),
 ensure that variables incremented within 
 a FOR loop are different from your 
 folder and program names. 
