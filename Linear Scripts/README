@@ -6,4 +6,5 @@ This is a (roughly) factory configuration,
 
 You can then easily change every settîngs to your own.
 As you develop your own applications, your script will become almost unnecessary. 
+
 I hope you'll find it useful to insert `customkil()` somewhere between your own settings.
