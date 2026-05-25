@@ -14,7 +14,7 @@ are to be banned as user variables name.
 
 A pitfall to avoid :
 --------------------
-Avoid naming your folder with only one letter.
+Avoid naming your folders with only one letter.
 
 Like standard variables 
 (list, string, etc.),
