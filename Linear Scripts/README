@@ -4,4 +4,4 @@ This is a (roughly) factory configuration,
 ( More secure than Memory Menu )
 You can then easily revert to your preferred settings.
 As you develop your own applications, this script will become almost unnecessary. 
-I hope you'll find it useful to insert `customkil()` somewhere in these lines.
+I hope you'll find it useful to insert `customkil()` somewhere in between your own settings.
