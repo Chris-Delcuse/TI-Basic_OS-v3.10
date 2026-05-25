@@ -1,18 +1,16 @@
 IMPORTANT :
 
-Varariable to exclude :
------------------------
-As well as your prgm names,
-
-the use of,
-all the name functions into the CATALOG
-and system variables in the VAR-LINK menu
-are to be banned as user variables name.
-
+Variables to exclude :
+----------------------
 Pay close attention when creating your
 variables !
 
-More help, see user manual.
+As well as your prgm names,
+the use of,
+
+All the name functions into the CATALOG
+and system variables in the VAR-LINK menu
+are to be banned as user variables name.
 
 MY ADVICE :
 -----------
