@@ -16,8 +16,8 @@ A pitfall to avoid :
 --------------------
 Like standard variables 
 (list, string, etc.),
-ensure that variables incremented in 
-a Loop FOR are different from your 
+ensure that incremented variables in 
+a FOR Loop are different from your 
 folder and program names. 
 
 Avoid naming a folder simply with
