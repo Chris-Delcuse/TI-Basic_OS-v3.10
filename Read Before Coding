@@ -18,3 +18,8 @@ To protect your work, calculations,
 and personal settings, I strongly 
 recommend to ban the 'NewProb' function
 from your programs.
+
+LOCAL VAR :
+-----------
+Concerning local variables,
+it is important to note that within the RAM the name of the variable is associated, for the system with a folder name, and can possibly create either new development opportunities or inconveniences. I hope to be able to tell you more soon.
