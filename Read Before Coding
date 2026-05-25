@@ -22,9 +22,9 @@ from your programs.
 LOCAL VAR :
 -----------
 Concerning local variables,
-it is important to note that within the RAM,
+it seems that within the RAM for the system,
 the variable name is associated,
-for the system with a folder name,
+with a folder name,
 and can possibly create either
 new development opportunities
 or inconveniences. 
