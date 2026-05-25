@@ -14,9 +14,8 @@
 : false→istr
 :EndTry
 :
-:© istr Condition test here !
-:
+:© Condition test
 :© & Your code !
-;© Change prgm name & argument name !
+;© EndCondition
 :
 :EndPrgm
