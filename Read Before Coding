@@ -14,13 +14,13 @@ are to be banned as user variables name.
 
 A pitfall to avoid :
 --------------------
+Avoid naming your folder with only one letter.
+
 Like standard variables 
 (list, string, etc.),
 ensure that incremented variables in 
-a FOR Loop are different from your 
+your FOR Loops are different from your 
 folder and program names. 
-
-Avoid naming a folder with only one letter.
 
 MY ADVICE :
 -----------
