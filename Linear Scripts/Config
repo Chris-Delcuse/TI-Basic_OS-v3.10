@@ -1,4 +1,4 @@
 :DftCFG()
 :Prgm
-:
+:setMode({"Graph","FUNCTION","Display Digits","FLOAT 6"
 :EndPrgm
