@@ -1,12 +1,13 @@
 Usefull to :
+------------
 
-FnCheck
-
+FnCheck :
+---------
 - Find out available locations, before using 'Define'.
 - Standing as Basic-Lib in the main folder for your private programs.
 
-Fncheck_lite
-
+Fncheck_lite :
+--------------
 - Also to Find out available locations before using 'Define'.
-( here only in graph mode FUNCTION )
-- To be easyly included in a folder for your dedicated programs.
+ ( only in graph mode FUNCTION )
+- To be easily included in a folder for your dedicated programs.
