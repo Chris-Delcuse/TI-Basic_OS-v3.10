@@ -25,8 +25,6 @@ If your classmate has physical access to your calculator, this can also affect y
 
 By renaming & using getType() right away STR is exposed in the Var-Link Menu.
 
-If we allow a comparison with Android or IOS, it seems complicated but, today we know that for F#&@#!G obvious security and permission reasons.
-
 In order to preserve the contents of the STR variable, it may be useful to process variables in RAM.
 
 
