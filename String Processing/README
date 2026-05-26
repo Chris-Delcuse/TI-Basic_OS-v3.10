@@ -21,9 +21,9 @@ Argument = 'Local' VAR -> so in RAM
 
 Note :
 ------
-If your classmate has physical access to your calculator, this can also affect your personal programs, in order to preserve the contents of the STR variable.
+If your classmate has physical access to your calculator, this can also affect your personal programs, in order to preserve the contents of the STR variable,
 
-and using getType() right away by renaming the variable is an easy solution.
+so using getType() right away by renaming the variable is an easy solution.
 
 If we allow a comparison with Android or IOS, it seems complicated but, today we know that for F#&@#!G obvious security and permission reasons,
 
