@@ -5,6 +5,6 @@ I'm offering a linear TI-89 script that will reset the configuration settings.
 
 This is a configuration, complete as possible to the factory settings, but safer than manually via the Memory Menu.
 
-You can easily change every settîngs to your own. As you develop your own applications, your script will become almost unnecessary. 
+You can easily change every settîngs to your own. As you develop your own applications.
 
 I hope you'll find useful to insert `customkil()` somewhere between your own settings.
