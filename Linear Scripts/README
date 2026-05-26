@@ -3,7 +3,7 @@ Switching between classes and coding sessions, or trying out other applications,
 For this example,
 I'm offering a linear TI-89 script that will reset the configuration settings.
 This is a (roughly) factory configuration,
-( More secure than manually via the Memory Menu )
+( Safer than manually via the Memory Menu )
 
 You can easily change every settîngs to your own. As you develop your own applications, your script will become almost unnecessary. 
 
