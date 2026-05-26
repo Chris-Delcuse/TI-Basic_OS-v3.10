@@ -25,7 +25,8 @@ If your classmate has physical access to your calculator, this can also affect y
 
 and using getType() right away by renaming the variable is an easy solution.
 
-If we allow a comparison with Android or IOS, it seems complicated but, today we know that for F#&@#!G obvious security and permission reasons, 
+If we allow a comparison with Android or IOS, it seems complicated but, today we know that for F#&@#!G obvious security and permission reasons,
+
 Sometimes it's necessary to process variables in RAM before granting additionnal permissions. 
 
 
