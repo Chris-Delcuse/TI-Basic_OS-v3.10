@@ -21,6 +21,6 @@ Argument = 'Local' VAR -> so in RAM
 
 Note :
 ------
-If we allow a comparison with Android or IOS, it seems complicated but, today we know that for F#&@#!G obvious security and permission reasons, it's necessary to process variables in RAM before granting permissions. 
+If we allow a comparison with Android or IOS, it seems complicated but, today we know that for F#&@#!G obvious security and permission reasons, Sometimes it's necessary to process variables in RAM before granting more permissions. 
 
 and using getType() right away by renaming the variable is an easy solution.
