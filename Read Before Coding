@@ -20,7 +20,10 @@ Like standard variables
 (list, string, etc.),
 ensure that incremented variables in 
 your FOR Loops are different from your 
-folder and program names. 
+folder and program names.
+
+Furthermore, unique variables of type: alpha,
+are commonly used for formal computation.
 
 MY ADVICE :
 -----------
