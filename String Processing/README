@@ -23,7 +23,7 @@ Note :
 ------
 If your classmate has physical access to your calculator, this can also affect your personal programs !
 
-By using getType() right away STR is exposed in the Var-Link Menu.
+By renaming & using getType() right away STR is exposed in the Var-Link Menu.
 
 If we allow a comparison with Android or IOS, it seems complicated but, today we know that for F#&@#!G obvious security and permission reasons.
 
