@@ -23,7 +23,11 @@ your FOR Loops are different from your
 folder and program names.
 
 Furthermore, unique variables of type: alpha,
-are commonly used for formal computation.
+are commonly used for formal computation
+& increment.
+
+Many coders use letter i as a variable
+to be incremented.
 
 MY ADVICE :
 -----------
