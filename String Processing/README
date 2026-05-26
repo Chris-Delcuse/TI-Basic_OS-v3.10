@@ -26,7 +26,6 @@ By using getType() right away STR is exposed in the Var-Link Menu.
 
 If we allow a comparison with Android or IOS, it seems complicated but, today we know that for F#&@#!G obvious security and permission reasons.
 
-In order to preserve the contents of the STR variable,
-it's necessary to process variables in RAM before granting additionnal permissions. 
+In order to preserve the contents of the STR variable, it's necessary to process variables in RAM before granting additionnal permissions. 
 
 
