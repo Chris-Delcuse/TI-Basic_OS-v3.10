@@ -24,7 +24,7 @@ folder and program names.
 
 Furthermore, unique variables of type: alpha,
 are commonly used for formal computation
-& increment.
+& incrementation.
 
 Many coders use letter i as a variable
 to be incremented.
