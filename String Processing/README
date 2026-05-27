@@ -23,7 +23,7 @@ Note :
 ------
 By renaming & using getType() right away STR is exposed in the Var-Link Menu.
 
-Ex: If your classmate has physical access to your calculator.
+Ex: Someone has physical access to your calculator.
 
 In order to preserve the contents of the STR variable, it may be useful to process variables in RAM.
 
