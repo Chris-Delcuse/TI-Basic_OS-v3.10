@@ -154,7 +154,7 @@
 :setTable("Graph <-> Table","OFF")
 :setTable("Independant","AUTO")
 :-10→tblStart
-:-1→Δtbl
+:1→Δtbl
 :
 :© Units
 :
