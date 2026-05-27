@@ -1,0 +1,155 @@
+:Dft89Cfg()
+:Prgm
+:
+:© Window
+:
+:setMode("Graph","FUNCTION")
+:-10→xmin
+:10→xmax
+:1→xscl
+:-10→ymin
+:10→ymax
+:1→yscl
+:
+:© 3D
+:
+:setMode("Graph","3D")
+:20→eyeθ
+:70→eyeΦ
+:0→eyeψ
+:14→xgrid
+:14→ygrid
+:-10→zmin
+:10→zmax
+:5→ncontour
+:
+:© Parametric
+:
+:setMode("Graph","PARAMETRIC")
+:0→tmin
+:2π→tmax
+:π/24→tstep
+:
+:© Polar
+:
+:setMode("Graph","POLAR")
+:0→θmin
+:2π→θmax
+:π/24→θstep
+:
+:© Sequence
+:
+:setMode("Graph","SEQUENCE")
+:1→nmin
+:10→nmax
+:1→plotStrt
+:1→plotStep
+:
+:© Diff Equations
+:
+:setMode("Graph","DIFF EQUATIONS")
+:0→t0
+:10→tmax
+:1→tstep
+:0→tplot
+:0→ncurves
+:0.001→diftol
+:14→fldres
+:
+:© setMode
+:
+:setMode("Graph","FUNCTION")
+:setMode("Display Digits","FLOAT 6")
+:setMode("Angle","DEGREE")
+:setMode("Exponential Format","NORMAL")
+:setMode("Complex Format","REAL")
+:setMode("Vector Format","RECTANGULAR")
+:setMode(""Pretty Print","ON")
+:setMode("Split Screen","FULL")
+:setMode("Split 1 App","Home")
+:setMode("Split 2 App","Graph")
+:setMode("Number Of Graphs","1")
+:setMode("Graph 2","FUNCTION")
+:setMode("Split Screen Ratio","1:1")
+:setMode("Exact/Approx","AUTO")
+:setMode("Base","DEC")
+:setMode("Apps Destop","ON")
+:
+:© Custom
+:
+:Custom
+:Title "Var"
+:Item "L1"
+:Item "M1"
+:Item "Prgm1"
+:Item "Func1"
+:Item "Data1"
+:Item "Text1"
+:Item "Pic1"
+:Item "GDB1"
+:Item "Str1"
+:Title "f(x)"
+:Item "f(x)"
+:Item "g(x)"
+:Item "f(x,y)"
+:Item "g(x,y)"
+:Item "f(x+h)"
+:Item "Define f(x) ="
+:Title "Solve"
+:Item "Solve("
+:Item " And "
+:Item "{x,y}"
+:Item "Solve( And ,{x,y}"
+:Title "Unit"
+:Item "_m/_s^ 2"
+:Item "_ft/_s^2"
+:Item "_m"
+:Item "_ft"
+:Item "_l"
+:Item "_gal"
+:Item "_°C"
+:Item "°_F"
+:Item "_kph"
+:Item "_mph"
+:Title "Symbol"
+:Item "#"
+:Item "β"
+:Item "#"
+:Item "?"
+:Item " ~" 
+:Item "&"
+:Item "#"
+:Title "Internat'l"
+:Item "è"
+:Item "é"
+:Item "ê"
+:Item "à"
+:Item "ù"
+:Item "û"
+:Item "ô"
+:Item "ç"
+:Item "ü"
+:Title "Tool"
+:Item "ClrHome"
+:Item "CustmOff"
+:EndCustm
+:CustmOn
+:
+:© Graph
+:
+:Try
+: setGraph("Discontinuity Detection","ON")
+:Else
+: setGraph("Graph Order","SEQ")
+: setGraph("Discontinuity Detection","ON")
+:EndTry
+:
+:setGraph("Axes","ON")
+:setGraph("Labels","OFF")
+:setGraph("Grid","OFF")
+:
+:© Units
+:
+:setUnits({"SI"})
+:
+:EndPrgm
