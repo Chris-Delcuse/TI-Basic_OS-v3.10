@@ -142,6 +142,7 @@
 :Else
 : setGraph("Graph Order","SEQ")
 : setGraph("Discontinuity Detection","ON")
+: ClrErr
 :EndTry
 :
 :setGraph("Axes","ON")
