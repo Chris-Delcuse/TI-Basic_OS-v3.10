@@ -4,7 +4,7 @@
 :© setMode
 :
 :setMode("Graph","FUNCTION")
-:setMode("Display Digits", "FLOAT 6")
+:setMode("Display Digits","FLOAT 6")
 :setMode("Angle","DEGREE")
 :setMode("Exponential Format","NORMAL")
 :setMode("Complex Format","REAL")
