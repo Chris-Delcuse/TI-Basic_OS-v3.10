@@ -1,9 +1,0 @@
-:DftCFG() in progress
-:Prgm
-:
-:© Cfg close Manufacurer
-:© Safer Than Mem Menu
-:
-:setMode({"Graph","FUNCTION","Display Digits","FLOAT 6","Angle","DEGREE","Exponential Format","NORMAL","Complex Format","REAL","Vector Format","RECTANGULAR","Pretry Print","ON","Split Screen","FULL","Split 1 App","Home","Split 2 App","Graph","Number of Graphs","1","Graph 2","FUNCTION","Split Screen Ratio","1:1","Exact/Approx,"AUTO","Base","DEC","Apps Desktop","ON"})
-;Custom:Title "VAR":Item "L1":Item"M1":Item "Prgm1":Item "Func1":Item "Data1":Item "Text1":Item "Pic1":Item "GDB1",Item "Str1":Item ":Title "f(x)":Item "f(x)"
-:EndPrgm
