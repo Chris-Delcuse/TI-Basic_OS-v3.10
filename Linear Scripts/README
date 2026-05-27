@@ -8,3 +8,5 @@ I'm offering a linear TI-89 script, this is a configuration, complete as possibl
 You can easily remove useless settings, change every settîngs to your own, cut in multiple cfg files !
 
 I hope you'll find useful to insert `cstmkill()` or his code, somewhere between your own settings.
+
+Added : Graph / Table Synchronization
