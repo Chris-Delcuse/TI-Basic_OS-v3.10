@@ -149,6 +149,11 @@
 :setGraph("Labels","OFF")
 :setGraph("Grid","OFF")
 :
+:© Table
+:
+:setTable("Graph <-> Table","OFF")
+:setTable("Independant","AUTO")
+:
 :© Units
 :
 :setUnits({"SI"})
