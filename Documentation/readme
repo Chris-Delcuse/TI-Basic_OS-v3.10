@@ -15,7 +15,7 @@ Avoid naming your folders with only one letter.
 
 Ensure that incremented variables in your 'For’ Loops, are different from your folder and program names.
 
-Furthermore, unique variables of type: alpha, are commonly used for formal computation.
+Furthermore, unique variables of type: alpha, are commonly used for formal computation. (Type Func)
 
 MY ADVICE :
 -----------
