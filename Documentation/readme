@@ -1,1 +1,22 @@
+IMPORTANT :
 
+Variables to exclude :
+----------------------
+Pay close attention when you creating variables ! be creative !
+
+As well as your prgm names,
+the use of,
+
+All the name functions into the CATALOG and system variables in the VAR-LINK menu, are to be banned as user variables name.
+
+A pitfall to avoid :
+--------------------
+Avoid naming your folders with only one letter.
+
+Like standard variables (list, string, etc.), ensure that incremented variables in your 'For’ Loops are different from your folder and program names.
+
+Furthermore, unique variables of type: alpha, are commonly used for formal computation.
+
+MY ADVICE :
+-----------
+To protect your work, calculations, and personal settings, I strongly recommend to ban the 'NewProb' functionfrom your programs.
