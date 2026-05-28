@@ -9,6 +9,6 @@ FnCheck :
 
 Fncheck_lite :
 --------------
-- Also to Find out available locations before using 'Define'. (Graph mode FUNCTION only)
+- Also to Find out available locations before using 'Define'. (FUNCTION only)
 
 - To be easily included in a folder for your dedicated programs.
