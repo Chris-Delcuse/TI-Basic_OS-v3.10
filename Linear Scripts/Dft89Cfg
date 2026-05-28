@@ -1,15 +1,7 @@
 :Dft89Cfg()
 :Prgm
 :
-:© Window
-:
-:setMode("Graph","FUNCTION")
-:-10→xmin
-:10→xmax
-:1→xscl
-:-10→ymin
-:10→ymax
-:1→yscl
+:© Others Mode
 :
 :© 3D
 :
@@ -56,7 +48,7 @@
 :0.001→diftol
 :14→fldres
 :
-:© setMode
+:© Default Mode
 :
 :setMode("Graph","FUNCTION")
 :setMode("Display Digits","FLOAT 6")
@@ -74,6 +66,15 @@
 :setMode("Exact/Approx","AUTO")
 :setMode("Base","DEC")
 :setMode("Apps Destop","ON")
+:
+:© Window
+:
+:-10→xmin
+:10→xmax
+:1→xscl
+:-10→ymin
+:10→ymax
+:1→yscl
 :
 :© Custom
 :
