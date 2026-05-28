@@ -6,6 +6,7 @@ For this example,
 I'm offering a linear TI-89 script, this is a configuration, complete as possible to the factory settings, safer than Mem-Menu.
 
 You can easily remove useless settings, change every settîngs to your own, cut in multiple cfg files !
+
 (Personnaly, i have 5 different configuration files !)
 
 I hope you'll find useful to insert `cstmkill()` or his code, somewhere between your own settings.
