@@ -14,6 +14,8 @@
 :-10→zmin
 :10→zmax
 :5→ncontour
+:setGraph("Coordinates","RECT")
+:setGraph("Style","WIRE FRAME")
 :
 :© Parametric
 :
