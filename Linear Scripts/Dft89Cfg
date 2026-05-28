@@ -50,6 +50,8 @@
 :0→ncurves
 :0.001→diftol
 :14→fldres
+:setGraph("Solution Method","RK")
+:setGraph("Fields","SLPFLD")
 :
 :© Default Mode
 :
