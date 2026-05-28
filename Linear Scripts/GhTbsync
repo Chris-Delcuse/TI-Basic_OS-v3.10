@@ -4,6 +4,7 @@
 :© Usage Example
 :© Graph/Tab Synchro
 :
+:setTable("Graph <-> Table","OFF")
 :xmin→tblStart
 :xscl→Δtbl
 :
