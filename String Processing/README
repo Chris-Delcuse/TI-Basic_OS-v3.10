@@ -15,17 +15,7 @@ Check in RAM that the argument is a string.
 Remark :
 --------
 Prgm(Your_Argument)
+
 Argument = 'Local' or volatile -> so in RAM
 
-(For persistant variables, prefer 'getType()')
-
-
-Note :
-------
-By renaming & using getType() right away STR is exposed in the Var-Link Menu.
-
-Ex: Someone has physical access to your calculator.
-
-In order to preserve the contents of the STR variable, it may be useful to process variables in RAM.
-
-
+For persistant variables, prefer 'getType()'
