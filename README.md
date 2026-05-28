@@ -7,8 +7,3 @@ I'm also taking advantage of not having computer, to provide code devoid of pers
 This repository is primarily intended for those who want to fully utilize the coding Basic features.
 
 Pure TI-Basic ! Made to inspire.
-
-
-
-
-        Next: See Recommendations
