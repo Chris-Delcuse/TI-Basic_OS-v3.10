@@ -4,9 +4,11 @@ Usefull to :
 FnCheck :
 ---------
 - Find out available locations, before using 'Define'.
+
 - Standing as Basic-Lib in the main folder for your private programs.
 
 Fncheck_lite :
 --------------
 - Also to Find out available locations before using 'Define'. (Graph mode FUNCTION only)
+
 - To be easily included in a folder for your dedicated programs.
