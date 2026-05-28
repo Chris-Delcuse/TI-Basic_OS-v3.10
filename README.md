@@ -11,4 +11,4 @@ Pure TI-Basic ! Made to inspire.
 
 
 
-              Next: See Recommendations
+        Next: See Recommendations
