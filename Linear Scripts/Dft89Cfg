@@ -23,6 +23,7 @@
 :0→tmin
 :2π→tmax
 :π/24→tstep
+:setGraph("Leading Cursor","OFF")
 :
 :© Polar
 :
