@@ -14,6 +14,10 @@ By creating your own cfg, you will be able to quickly return to your personal se
 
 I hope you'll find useful to insert `cstmkill()` or his code, somewhere between your own settings.
 
+Remark:
+-------
+This isn't a tutorial; I'm counting on your inspiration to optimize all the modes you need (e.g., Graph/Table Sync). Then you can move on to string manipulation. (FnCheck)
+
 
 
 
