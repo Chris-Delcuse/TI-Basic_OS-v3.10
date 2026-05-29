@@ -2,7 +2,7 @@
 
 For obvious hardware and user safety reasons, you will not find any .89x, .92x, or V2x files.
 
-I am committed to providing TI-Basic source code that will not cause difficulties for the user or their hardware.
+I am committed to providing TI-Basic sources, that will not cause difficulties to the user or his hardware.
 
 This is why you will only find source code in text format.
 
