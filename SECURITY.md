@@ -2,7 +2,7 @@
 
 I am committed here, to providing sources, that will not cause difficulties to the uprightness user or hardware.
 
-For obvious hardware and user safety reasons, you will not find any .89x, .92x, or .V2x files.
+For obvious community safety reasons, you will not find any .89x, .92x, or .V2x files.
 
 I further certify, to be the only author of the sources presented above.
 
