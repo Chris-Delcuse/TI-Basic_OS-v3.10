@@ -11,6 +11,6 @@ This is why you will only find source code in text format.
 Advanced Mathematics Software
 v3.10 07/18/2005 
 
-Harware: TI-89, TI-89 Titanium, 92, 92+ & Voyage 200
+Hardware: TI-89, TI-89 Titanium, 92, 92+ & Voyage 200
 
 Manufacturer: Texas Instruments
