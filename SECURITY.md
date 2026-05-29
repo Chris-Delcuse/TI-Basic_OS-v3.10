@@ -1,6 +1,6 @@
 # Security Policy
 
-I am committed here, to providing sources, that will cause any difficulties to the uprightness user or hardware.
+I commit here to providing sources, which will cause no difficulties to user or hardware integrity.
 
 For obvious community safety reasons, you will not find any .89x, .92x, or .V2x files.
 
