@@ -4,7 +4,7 @@ For obvious hardware and user safety reasons, you will not find any .89x, .92x, 
 
 I am committed to providing TI-Basic sources, that will not cause difficulties to the uprightness user or hardware.
 
-This is why, you will only find sources in text format.
+This is why, you will only find text formated sources.
 
 ## Supported Versions
 
