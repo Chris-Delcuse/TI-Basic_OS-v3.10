@@ -1,6 +1,6 @@
 # Security Policy
 
-For obvious hardware and user safety reasons, you will not find any .89x, .92x, or V2x files.
+For obvious hardware and user safety reasons, you will not find any .89x, .92x, or .V2x files.
 
 I am committed to providing TI-Basic sources, that will not cause difficulties to the user or his hardware.
 
@@ -10,7 +10,7 @@ This is why, you will only find sources in text format.
 
 Advanced Mathematics Software
 
-Version 3.10 07/18/2005 
+Version 3.10   07/18/2005 
 
 Hardware: TI-89, TI-89 Titanium, 92, 92+ & Voyage 200
 
