@@ -4,6 +4,8 @@ I am committed here, to providing sources, that will not cause difficulties to t
 
 For obvious hardware and user safety reasons, you will not find any .89x, .92x, or .V2x files.
 
+I further certify, to be the only author of the sources presented above.
+
 ## Supported Versions
 
 Advanced Mathematics Software
