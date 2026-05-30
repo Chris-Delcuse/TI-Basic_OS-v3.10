@@ -19,8 +19,6 @@ Ensure that incremented variables in your 'For’ Loops, are different from your
 
 Furthermore, unique variables of type: alpha, are commonly used for formal computation. (or 'Func' for executables)
 
-or even by students :)
-
 My advice :
 -----------
 To protect your work, calculations, and personal settings, I strongly recommend to ban the 'NewProb' from your programs.
