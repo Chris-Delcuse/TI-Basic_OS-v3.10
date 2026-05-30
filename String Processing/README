@@ -12,8 +12,8 @@ ISSTRING ( originally written for OS2 )
 
 Check in RAM that the argument is a string.
 
-Remark :
---------
+Tips:
+-----
 Prgm(Your_Argument)
 
 Argument = 'Local' or volatile -> so in RAM
