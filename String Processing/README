@@ -12,8 +12,10 @@ ISSTRING ( originally written for OS2 )
 
 Check in RAM that the argument is a string.
 
-Tips:   Prgm(Your_Argument)
+Tips :
 -----
+Prgm(Your_Argument)
+
 Argument = 'Local' or volatile -> so in RAM
 
 For persistant variables, prefer 'getType()'
