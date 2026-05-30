@@ -7,3 +7,5 @@ The process implemented is purely personal, although intended for educational pu
 This repository is aimed at advanced users and is not intended as a tutorial. I will make sure to add advice, remarks, or tips.
 
 I do not plan any release as a finished product.
+
+In return, I expect you to respect the the tee-time ☕️
