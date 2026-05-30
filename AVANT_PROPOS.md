@@ -9,7 +9,7 @@ the use of,
 
 All the name functions into the CATALOG and system variables in the VAR-LINK menu, are to be banned as user variables name.
 
-A pitfall to avoid :
+Pitfall to avoid :
 --------------------
 Avoid naming your folders with only one letter.
 
