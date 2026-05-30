@@ -9,6 +9,8 @@ the use of,
 
 All the name functions into the CATALOG and system variables in the VAR-LINK menu, are to be banned as user variables name.
 
+It may NOT crash the program and CONSIDERABLY increase debugging time.
+
 Pitfall to avoid :
 --------------------
 Avoid naming your folders with only one letter.
