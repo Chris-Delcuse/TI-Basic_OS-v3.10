@@ -2,7 +2,7 @@ First of all, I would like to clarify that development is part of my skills, but
 
 I mainly produce source contexts, at risk to appear diffuse for the beginners. 
 
-The process implemented is purely personal, although intended for educational purposes, the content presented above is not supported by Texas Instruments.
+The process implemented is purely personal, although intended for educational purposes, the content presented above, is not supported by Texas Instruments.
 
 This repository is aimed at advanced users and is not intended as a tutorial. I will make sure to add advice, remarks, or tips.
 
