@@ -4,6 +4,6 @@ Cstmkill() represents first of all, a struggle, but also a new direction in basi
 
 I'm taking advantage of not having computer, to provide code devoid of personal files.
 
-This repository is primarily intended for those who want to fully utilize the coding Basic features.
+This repository is primarily intended for those who want to fully utilize the coding Basic features. Pure TI-Basic !
 
-Pure TI-Basic ! Made to inspire.
+Made to inspire.
