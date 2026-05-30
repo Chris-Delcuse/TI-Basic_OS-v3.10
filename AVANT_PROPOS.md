@@ -21,7 +21,7 @@ Furthermore, unique variables of type: alpha, are commonly used for formal compu
 
 My advice :
 -----------
-To protect your work, calculations, and personal settings, I strongly recommend to ban the 'NewProb' from your programs.
+To protect your work, calculations, and personal settings, I strongly recommend to ban 'NewProb' from your programs.
 
 Indispensable: Go to create your cfg file, see the linear scripts section.
 
