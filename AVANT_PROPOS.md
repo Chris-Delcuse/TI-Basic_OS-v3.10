@@ -23,7 +23,7 @@ My advice :
 -----------
 To protect your work, calculations, and personal settings, I strongly recommend to ban the 'NewProb' from your programs.
 
-Indispensable: Go to create your cfg file; see the linear scripts section.
+Indispensable: Go to create your cfg file, see the linear scripts section.
 
 Finally, I can just recommend, to create your own repository, even this one keep private.
 
