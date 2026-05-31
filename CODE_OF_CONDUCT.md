@@ -1,4 +1,4 @@
-First of all, I would like to clarify that development is part of my skills, but I am not a professional developer.
+First, I would like to clarify that development is part of my skills, but I am not a professional developer.
 
 I mainly produce source contexts, at risk to appear diffuse for the beginners. 
 
