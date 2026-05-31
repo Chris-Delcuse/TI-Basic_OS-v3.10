@@ -7,7 +7,7 @@ Pay close attention when you create variables ! be creative !
 As well as your prgm names,
 the use of,
 
-All the name functions into the CATALOG and system variables in the VAR-LINK menu, are to be banned as user variables name.
+"All the name functions into the CATALOG and system variables in the VAR-LINK menu, are to be banned as user variables name."
 
 In some cases: It may NOT crash the program but, due stability reasons, CONSIDERABLY increase the debugging time.
 
@@ -17,7 +17,7 @@ Avoid naming your folders with only one letter.
 
 Example of 'For’ Loops !
 
-Ensure that incremented variables  are different from your folder names.
+"Ensure that incremented variables  are different from your folder names."
 
 Furthermore, unique variables of type: alpha, are commonly used for formal computation. (or 'Func' for executables)
 
