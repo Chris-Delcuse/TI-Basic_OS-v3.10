@@ -19,7 +19,7 @@ Example of 'For’ Loops !
 
 "Ensure that incremented variables  are different from your folder names."
 
-Furthermore, unique variables of type: alpha, are commonly used for formal computation. (or 'Func' for executables)
+Furthermore, unique variables type: alpha, are commonly used for formal computation. (or 'Func' for executables)
 
 My advice :
 -----------
