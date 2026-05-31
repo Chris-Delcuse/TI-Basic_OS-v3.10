@@ -15,7 +15,7 @@ Pitfall to avoid :
 --------------------
 Avoid naming your folders with only one letter.
 
-Ensure that incremented variables in your 'For’ Loops, are different from your folder.
+Ex: Ensure that incremented variables in your 'For’ Loops, are different from your folder.
 
 Furthermore, unique variables of type: alpha, are commonly used for formal computation. (or 'Func' for executables)
 
