@@ -2,7 +2,7 @@ To mark the release of various TI-89 emulators, i gather here, the knowledge i h
 
 Cstmkill() represents first of all, a struggle, but also a new direction in basic development offering new opportunities.
 
-I'm taking advantage of not having computer, to provide code devoid of personal files. ( toutes les contraintes sans le salaire, et ma mere ne lave pas mes slips sales )
+I'm taking advantage of not having computer, to provide code devoid of personal files.
 
 This repository is primarily intended for those who want to fully utilize the coding Basic features. Pure TI-Basic !
 
