@@ -9,3 +9,4 @@ I do not plan any release as finished product.
 
 
 quel mot tu comprend pas dans "personnal" ?
+je devrais avoir le droit de leurs oter la vie sur le champs
