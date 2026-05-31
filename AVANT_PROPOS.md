@@ -17,7 +17,7 @@ Avoid naming your folders with only one letter.
 
 Example of 'For’ Loops !
 
-"Ensure that incremented variables  are different from your folder names."
+"Ensure your incremented variables  are different from your folder names."
 
 Furthermore, unique variables type: alpha, are commonly used for formal computation. (or 'Func' for executables)
 
