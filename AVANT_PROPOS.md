@@ -9,7 +9,7 @@ the use of,
 
 All the name functions into the CATALOG and system variables in the VAR-LINK menu, are to be banned as user variables name.
 
-In some cases: It may NOT crash the program but due stability, CONSIDERABLY increase debugging time.
+In some cases: It may NOT crash the program but due stability reasons, CONSIDERABLY increase debugging time.
 
 Pitfall to avoid :
 --------------------
