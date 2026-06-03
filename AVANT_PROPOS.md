@@ -15,7 +15,7 @@ Pitfall to avoid :
 --------------------
 Avoid naming your folders with only one letter.
 
-Example : in your 'For’ Loops !
+Example of 'For’ Loops :
 
 "Ensure your incremented variables  are different from your folder names."
 
