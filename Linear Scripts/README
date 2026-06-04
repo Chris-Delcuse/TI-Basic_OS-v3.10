@@ -12,12 +12,6 @@ You can easily remove useless settings, change every settîngs to your own, cut
 
 By creating your own cfg, you will be able to quickly return to your personal settings.
 
-I hope you'll find useful to insert `cstmkill()` or his code, somewhere between your own settings.
-
-Remark:
--------
-I'm counting on your inspiration to optimize all the modes you need (e.g., Graph/Table Sync). Then you can move on to string manipulation. (FnCheck)
-
 
 
 
