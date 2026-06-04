@@ -14,8 +14,8 @@
 : false→istr
 :EndTry
 :
-:© Condition test
-:© & Your code !
+:© istr Condition test
+:© Your code
 ;© EndCondition
 :
 :EndPrgm
