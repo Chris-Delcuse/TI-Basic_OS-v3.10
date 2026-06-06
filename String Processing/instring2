@@ -14,18 +14,16 @@
 :setMode("Base","DEC")
 :
 :0→chx
-:1→strsz
+:0→strsz
 :""→strc
 :""→ch
 :""→strl
 :{}→chlst
 :
 :While str≠strc
-: left(str,strsz)→strc
 : 1+strsz→strsz
+: left(str,strsz)→strc
 :EndWhile
-:
-:strsz-1→strsz
 :
 :For chx,1,strsz,1
 : left(str,chx)→strl
