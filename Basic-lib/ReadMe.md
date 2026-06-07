@@ -1,1 +1,1 @@
-The main folder is stilk the best repository you need.
+The main folder is still the best repository you need.
