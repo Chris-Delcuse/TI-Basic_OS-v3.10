@@ -4,7 +4,7 @@ FnCheck :
 ---------
 - Find out available locations, before using 'Define'.
 
-Fncheck_lite :
+Fncheck_lite : ( For dedicated Prgm )
 --------------
 - Also to Find out available locations before using 'Define'. (FUNCTION only)
 
