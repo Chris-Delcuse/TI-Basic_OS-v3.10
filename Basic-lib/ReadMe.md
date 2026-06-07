@@ -1,1 +1,1 @@
-The main folder is still the best repository you need.
+The main folder is still the best calculator repository you need.
