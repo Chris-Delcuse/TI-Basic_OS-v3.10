@@ -1,0 +1,34 @@
+:InString2(str)
+:Prgm
+:
+:© Read a string content
+:© Returns str as
+:© char nbr list → chlst
+:© & size of str as
+:© Decml var → strsz
+:
+:ClrErr
+:
+:Local chx,ch,strc,strl
+:
+:setMode("Base","DEC")
+:
+:0→chx
+:0→strsz
+:""→strc
+:""→ch
+:""→strl
+:{}→chlst
+:
+:While str≠strc
+: 1+strsz→strsz
+: left(str,strsz)→strc
+:EndWhile
+:
+:For chx,1,strsz,1
+: left(str,chx)→strl
+: right(strl,1)→ch
+: ord(ch)→chlst[chx]
+:EndFor
+:
+:EndPrgm
