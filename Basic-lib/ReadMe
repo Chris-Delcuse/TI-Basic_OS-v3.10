@@ -16,10 +16,10 @@ InStrng2 :
 
 InitScrn :
 ----------
-- Prepare & restore your screen.
+- Prepare & restore your screen to PxlMode.
 ( Compatible 89, Titanium, 92, 92+ & V200 )
 
 InitScrn_lite : ( For dedicated Prgm )
 ---------------
-- Prepare & restore your screen.
+- Prepare & restore your screen to PxlMode
 ( 89 & Titanium ONLY )
