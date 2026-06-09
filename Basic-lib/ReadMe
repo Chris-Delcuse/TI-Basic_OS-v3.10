@@ -8,8 +8,11 @@ Fncheck_lite : ( For dedicated Prgm )
 --------------
 - Also to Find out available locations before using 'Define'. (FUNCTION only)
 
-INSTRING2
+InStrng2
 ---------
 - Develop a text-based command assistant,
 - or running a custom font,
 - ...
+
+InitScrn
+--------
