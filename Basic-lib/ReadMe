@@ -1,7 +1,5 @@
 Your Main folder should look like this !
 
-Ils sont degouter, eux ils ont pas Google Paris :)
-
 FnCheck :
 ---------
 - Find out available locations, before using 'Define'.
@@ -21,7 +19,7 @@ InitScrn :
 - Prepare & restore your screen.
 ( Compatible 89, Titanium, 92, 92+ & V200 )
 
-InitScrn_lite :
+InitScrn_lite : ( For dedicated Prgm )
 ---------------
 - Prepare & restore your screen.
 ( 89 & Titanium ONLY )
