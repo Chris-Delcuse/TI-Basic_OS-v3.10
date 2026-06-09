@@ -58,3 +58,4 @@
 : DelVar smb,wlst
 : ClrDraw
 :EndIf
+:EndPrgm
