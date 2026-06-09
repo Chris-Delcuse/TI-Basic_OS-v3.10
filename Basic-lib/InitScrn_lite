@@ -8,7 +8,7 @@
 :
 :ClrErr
 :
-:Local gcg,w,h,st
+:Local gcg,st
 :
 :{xmin,xmax,ymin,ymax}→st
 :
