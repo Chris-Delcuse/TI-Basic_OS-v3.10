@@ -1,0 +1,51 @@
+:InitScrn()
+:Prgm
+:
+:© Screen Initialisation
+:© 89&Titanium ONLY
+:© 1st Lch PxlMode
+:© 2nd Lch Restore Gph
+:
+:ClrErr
+:
+:Local gcg,w,h,st
+:
+:{xmin,xmax,ymin,ymax}→st
+:
+:If st≠{0,158,-76,0} Then
+: setMode ("Graph","FUNCTION")→smg
+: setMode("Axes","OFF")→sga
+: setMode("Labels","OFF")→sgl
+: setMode("Grid","OFF")→sgg
+: setMode("Base","DEC")→smb
+: PlotsOff
+: FnOff
+: {}→wlst
+: xmin→wlst[1]
+: xmax→wlst[2]
+: xscl→wlst[3]
+: ymin→wlst[4]
+: ymax→wlst[5]
+: yscl→wlst[6]
+: 0→xmin
+: w→xmax
+: h→ymin
+: 0→ymax
+:
+:ElseIf st={0,158,-76,0} Then
+: setMode("Graph",smg)
+: setMode("Axes",sga)
+: setMode("Labels",sgl)
+: setMode("Grid",sgg)
+: setMode("Base",smb)
+: PlotsOn
+: wlst[1]→xmin
+: wlst[2]→xmax
+: wlst[3]→xscl
+: wlst[4]→ymin
+: wlst[5]→ymax
+: wlst[6]→yscl
+: DelVar smg,sga,sgl,sgg
+: DelVar smb,wlst
+: ClrDraw
+:EndIf
