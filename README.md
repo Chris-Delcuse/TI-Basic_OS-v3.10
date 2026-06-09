@@ -1,4 +1,4 @@
-To mark the release of various TI-89 emulators, i gather here, the knowledge i have of this OS.
+To mark the release of various TI-89 emulators, i gather here the knowledge i have of this OS.
 
 Cstmkill() represents a new direction in TI-Basic development offering new opportunities.
 
