@@ -43,6 +43,7 @@
 :
 :ElseIf st={0,w,h,0} Then
 : setMode("Graph",smg)
+: setMode("Axes",sga)
 : setMode("Labels",sgl)
 : setMode("Grid",sgg)
 : setMode("Base",smb)
