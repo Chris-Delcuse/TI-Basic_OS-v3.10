@@ -1,5 +1,7 @@
 Your Main folder should look like this !
 
+Ils sont degouter, eux ils ont pas Google Paris :)
+
 FnCheck :
 ---------
 - Find out available locations, before using 'Define'.
@@ -8,13 +10,18 @@ Fncheck_lite : ( For dedicated Prgm )
 --------------
 - Also to Find out available locations before using 'Define'. (FUNCTION only)
 
-InStrng2
----------
+InStrng2 :
+----------
 - Develop a text-based command assistant,
 - or running a custom font,
 - ...
 
-InitScrn
---------
+InitScrn :
+----------
 - Prepare & restore your screen.
 ( Compatible 89, Titanium, 92, 92+ & V200 )
+
+InitScrn_lite :
+---------------
+- Prepare & restore your screen.
+( 89 & Titanium ONLY )
