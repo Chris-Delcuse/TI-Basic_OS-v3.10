@@ -2,7 +2,7 @@
 
 I provide here, sources which will cause no difficulties to the user integrity and hardware certification.
 
-For obvious safety reasons, you will not find any .89x, .92x, or .V2x files or external links.
+For obvious safety reasons, you will not find any .89x, .92x, .V2x files or external links.
 
 I further certify, be author of the materials listed above.
 
