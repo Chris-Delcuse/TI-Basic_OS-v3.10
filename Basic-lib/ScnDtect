@@ -3,7 +3,7 @@
 :
 :© Get screen config
 :© scn→takes the value
-:© "TI-89" or "TI-92"
+:© "SMALL" or "LARGE"
 :
 :ClrErr
 :
@@ -11,9 +11,9 @@
 :""→scn
 :
 :If gcg>160 Then
-: "TI-92"→scn
+: "LARGE"→scn
 :Else
-: "TI-89"→scn
+: "SMALL"→scn
 :EndIf
 :
 :EndPrgm
