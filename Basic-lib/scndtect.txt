@@ -1,0 +1,19 @@
+:scndetect()
+:Prgm
+:
+:© Get screen config
+:© scn→takes the value
+:© "TI-89" or "TI-92"
+:
+: ClrErr
+:
+:Local gcg
+:""→scn
+:
+:If gcg>160 Then
+: "TI-92"→scn
+:Else
+: "TI-89"→scn
+:EndIf
+:
+:EndPrgm
