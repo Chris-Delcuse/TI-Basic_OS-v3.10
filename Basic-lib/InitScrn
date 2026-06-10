@@ -11,9 +11,7 @@
 :
 :{xmin,xmax,ymin,ymax}→st
 :
-:getConfig()[10]→gcg
-:
-:If gcg>160 Then
+:If scn="TI-92" Then
 : 238→w
 : -102→h
 :Else
