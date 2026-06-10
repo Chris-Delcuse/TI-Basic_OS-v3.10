@@ -1,6 +1,6 @@
 # Security Policy
 
-To keep safe the device's certification, i commit here to provide sources, which will cause no difficulties to the user or hardware integrity.
+I provide, here, sources which will cause no difficulties to the user integrity and hardware certification.
 
 For obvious safety reasons, you will not find any .89x, .92x, or .V2x files or external links.
 
