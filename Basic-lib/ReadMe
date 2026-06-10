@@ -12,6 +12,10 @@ InStrng2 :
 - or running a custom font,
 - ...
 
+ScnDetect :
+-----------
+- Detect the screen configuration.
+
 InitScrn :
 ----------
 - Prepare your screen to PxlMode & restore
