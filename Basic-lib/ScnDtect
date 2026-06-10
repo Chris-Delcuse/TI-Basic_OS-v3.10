@@ -5,7 +5,7 @@
 :© scn→takes the value
 :© "TI-89" or "TI-92"
 :
-: ClrErr
+:ClrErr
 :
 :Local gcg
 :""→scn
