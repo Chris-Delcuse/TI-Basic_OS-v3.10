@@ -10,6 +10,8 @@
 :Local gcg
 :""→scn
 :
+:getConfg()[10]→gcg
+:
 :If gcg>160 Then
 : "LARGE"→scn
 :Else
