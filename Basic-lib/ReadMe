@@ -12,8 +12,8 @@ InStrng2 :
 - or running a custom font,
 - ...
 
-ScnDetect :
------------
+ScnDtect :
+----------
 - Detect the screen configuration.
 
 InitScrn :
