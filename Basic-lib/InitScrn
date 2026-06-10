@@ -26,7 +26,7 @@
 : setMode("Axes","OFF")→sga
 : setMode("Labels","OFF")→sgl
 : setMode("Grid","OFF")→sgg
-: setMode("Base","DEC")→smb
+: setMode("Base","DEC")
 : PlotsOff
 : FnOff
 : {}→wlst
@@ -46,7 +46,6 @@
 : setMode("Axes",sga)
 : setMode("Labels",sgl)
 : setMode("Grid",sgg)
-: setMode("Base",smb)
 : PlotsOn
 : wlst[1]→xmin
 : wlst[2]→xmax
@@ -55,7 +54,7 @@
 : wlst[5]→ymax
 : wlst[6]→yscl
 : DelVar smg,sga,sgl,sgg
-: DelVar smb,wlst
+: DelVar wlst
 : ClrDraw
 :EndIf
 :DispHome
