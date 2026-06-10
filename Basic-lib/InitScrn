@@ -11,7 +11,7 @@
 :
 :{xmin,xmax,ymin,ymax}→st
 :
-:If scn="TI-92" Then
+:If scn="LARGE" Then
 : 238→w
 : -102→h
 :Else
