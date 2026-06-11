@@ -1,0 +1,36 @@
+:InitScrn()
+:Prgm
+:
+:© Screen Initialisation
+:© 1st Lch PxlMode
+:© 2nd Lch Restore Gph
+:
+:ClrErr
+:
+:Try
+:
+: If smg≠0 Then
+:  setMode("Graph",smg)
+:  setMode("Axes",sga)
+:  setMode("Labels",sgl)
+:  setMode("Grid",sgg)
+:  PlotsOn
+:  DelVar smg,sga,sgl,sgg
+:  DelVar wlst
+:  ClrDraw
+:EndIf
+:
+:Else
+: setMode ("Graph","FUNCTION")→smg
+: setMode("Axes","OFF")→sga
+: setMode("Labels","OFF")→sgl
+: setMode("Grid","OFF")→sgg
+: setMode("Base","DEC")
+: PlotsOff
+: FnOff
+:EndTry
+:
+:DispHome
+:
+:EndPrgm
+
