@@ -18,7 +18,7 @@
 :  DelVar smg,sga,sgl,sgg
 :  DelVar wlst
 :  ClrDraw
-:EndIf
+: EndIf
 :
 :Else
 : setMode ("Graph","FUNCTION")→smg
