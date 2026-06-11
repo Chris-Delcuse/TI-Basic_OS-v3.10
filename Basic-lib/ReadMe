@@ -16,12 +16,7 @@ ScnDtect :
 ----------
 - Detect the screen configuration.
 
-InitScrn : ( ScnDtect Dependency )
+InitScrn :
 ----------
 - Prepare your screen to PxlMode & restore
 ( Compatible 89, Titanium, 92, 92+ & V200 )
-
-InitScrn_lite : ( For dedicated Prgm )
----------------
-- Prepare your screen to PxlMode & restore.
-( 89 & Titanium ONLY )
