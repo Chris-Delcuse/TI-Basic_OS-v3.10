@@ -9,21 +9,17 @@
 :
 :ClrErr
 :
-:Local chx,ch,strc,strl
+:Local chx,ch,strl
 :
 :setMode("Base","DEC")
 :
 :0→chx
 :0→strsz
-:""→strc
 :""→ch
 :""→strl
 :{}→chlst
 :
-:While str≠strc
-: 1+strsz→strsz
-: left(str,strsz)→strc
-:EndWhile
+:Dim(str)→strsz
 :
 :For chx,1,strsz,1
 : left(str,chx)→strl
