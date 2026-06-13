@@ -19,7 +19,7 @@
 :""→strl
 :{}→chlst
 :
-:Dim(str)→strsz
+:dim(str)→strsz
 :
 :For chx,1,strsz,1
 : left(str,chx)→strl
