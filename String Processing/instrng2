@@ -13,7 +13,7 @@
 :
 :setMode("Base","DEC")
 :
-:0→chx
+:0→i
 :0→strsz
 :""→ch
 :""→strl
