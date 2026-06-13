@@ -11,6 +11,9 @@ the use of,
 
 In some cases, it may NOT crash the program but due stability reasons, CONSIDERABLY increase the debugging time.
 
+Example of var "mode", non-stable.
+Prefer the use of "m0de"
+
 Pitfall to avoid :
 --------------------
 Avoid naming your folders with only one letter.
