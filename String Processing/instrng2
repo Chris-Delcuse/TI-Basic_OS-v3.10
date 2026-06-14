@@ -4,8 +4,8 @@
 :© Read a string content
 :© Returns str as
 :© char nbr list → chlst
-:© & size of str as
-:© Decml var → strsz
+:© & Lenght of str as
+:© Decml var → lgt
 :
 :ClrErr
 :
@@ -19,9 +19,9 @@
 :""→strl
 :{}→chlst
 :
-:dim(str)→strsz
+:dim(str)→lgt
 :
-:For i,1,strsz,1
+:For i,1,lgt,1
 : left(str,i)→strl
 : right(strl,1)→ch
 : ord(ch)→chlst[i]
