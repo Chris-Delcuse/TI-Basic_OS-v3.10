@@ -25,4 +25,4 @@ InitScrn :
 
 LoadScrn :
 ----------
-- A simple LoadScrn, it can be called or insert in a loop.
+- A simple LoadScreen, it can be called or insert in a loop.
