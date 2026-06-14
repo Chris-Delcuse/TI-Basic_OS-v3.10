@@ -25,4 +25,4 @@ InitScrn :
 
 LoadScrn : ( ScnDtect required )
 ----------
-- A simple LoadScreen, it can be called or inserted in a loop.
+- A simple LoadScreen, it can be called × X or inserted in a loop.
