@@ -1,1 +1,5 @@
 THEMATIC FOLDER
+
+LoadScrn : ( ScnDtect required )
+----------
+- A simple LoadScreen, it can be called or inserted in a loop.
