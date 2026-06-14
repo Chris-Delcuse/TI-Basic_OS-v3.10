@@ -4,7 +4,7 @@
 :© Read a string content
 :© Returns str as
 :© char nbr list → chlst
-:© & Lenght of str as
+:© & Length of str as
 :© Decml var → lgt
 :
 :ClrErr
@@ -14,7 +14,7 @@
 :setMode("Base","DEC")
 :
 :0→i
-:0→strsz
+:0→lgt
 :""→ch
 :""→strl
 :{}→chlst
