@@ -23,6 +23,6 @@ InitScrn :
 - Prepare your screen to PxlMode & restore
 ( Compatible 89, Titanium, 92, 92+ & V200 )
 
-LoadScrn :
+LoadScrn : ( ScnDtect required )
 ----------
 - A simple LoadScreen, it can be called or inserted in a loop.
