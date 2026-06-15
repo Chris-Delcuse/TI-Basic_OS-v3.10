@@ -8,8 +8,3 @@ On-the-fly coded program
 - Closer as possible to the OS
 - Switch structure
 - Add-on possible via cmd
-
-MainClnr:
----------
-
-This level reached, i think a cleaner is needed, which will handle all the persistent variables associated with this project. ( In progress )
