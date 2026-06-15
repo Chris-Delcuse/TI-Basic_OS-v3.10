@@ -25,5 +25,5 @@ InitScrn :
 
 LoadScrn : ( ScnDtect required )
 ----------
-- A simple LoadScreen, it can be called or inserted in a loop.
+- A simple LoadScreen, FULLSCREEN Only !
 ( Compatible 89, Titanium, 92, 92+ & V200 )
