@@ -1,4 +1,4 @@
-IMPORTANT :
+⁹IMPORTANT :
 
 Variables to exclude :
 ----------------------
@@ -17,15 +17,13 @@ Prefer the use of "m0de".
 
 Pitfall to avoid :
 --------------------
-I)  Avoid naming your folders with only one letter.
+Avoid naming your folders with only one letter.
 
 Example of 'For’ Loops :
 
 "Ensure your incremented variables  are different from your folder names."
 
 Furthermore, unique variables type: alpha, are commonly used for formal computation. (or 'Func' for executables)
-
-II) The origin cursor position is different from the zero origin in Pixel.(Probably because the window is 2 pixels wide with scale.)
 
 My advice :
 -----------
