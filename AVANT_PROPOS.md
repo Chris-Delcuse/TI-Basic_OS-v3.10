@@ -25,7 +25,7 @@ Example of 'For’ Loops :
 
 Furthermore, unique variables type: alpha, are commonly used for formal computation. (or 'Func' for executables)
 
-II) The origin provided by xc and yc and different from the zero origin in Pixel.
+II) The origin provided by xc and yc is different from the zero origin in Pixel.
 
 My advice :
 -----------
