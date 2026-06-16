@@ -17,13 +17,15 @@ Prefer the use of "m0de".
 
 Pitfall to avoid :
 --------------------
-Avoid naming your folders with only one letter.
+1) Avoid naming your folders with only one letter.
 
 Example of 'For’ Loops :
 
 "Ensure your incremented variables  are different from your folder names."
 
 Furthermore, unique variables type: alpha, are commonly used for formal computation. (or 'Func' for executables)
+
+2) The origin provided by xc and yc and different from the zero origin in Pixel.
 
 My advice :
 -----------
