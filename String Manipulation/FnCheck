@@ -15,13 +15,13 @@
 :
 :DelVar fnlst
 :
-:Local lil,eq,var,eqs
+:Local a,eq,var,eqs
 :Local eqsv,smea
 :
 :setMode("Exact/Approx","AUTO")→smea
 :setMode("Base","DEC")
 :
-:0→lil
+:0→a
 :0→eqsv
 :{}→fnlst
 :""→eq
@@ -56,13 +56,13 @@
 : "yi"→eq
 :EndIf
 :
-:For lil,1,99,1
-: eq&string(lil)&var→eqs
+:For a,1,99,1
+: eq&string(a)&var→eqs
 : expr(eqs)→eqsv
 : If string(eqsv)≠eqs Then
-:  1→fnlst[lil]
+:  1→fnlst[a]
 : Else
-:  0→fnlst[lil]
+:  0→fnlst[a]
 : EndIf
 :EndFor
 :
