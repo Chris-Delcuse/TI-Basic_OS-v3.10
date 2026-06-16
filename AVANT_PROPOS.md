@@ -25,7 +25,7 @@ Example of 'For’ Loops :
 
 Furthermore, unique variables type: alpha, are commonly used for formal computation. (or 'Func' for executables)
 
-II) The origin cursor position is different from the zero origin in Pixel.
+II) The origin cursor position is different from the zero origin in Pixel.(Probably because the window is 2 pixels wide with scale.)
 
 My advice :
 -----------
