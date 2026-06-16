@@ -17,7 +17,7 @@ Prefer the use of "m0de".
 
 Pitfall to avoid :
 --------------------
-1) Avoid naming your folders with only one letter.
+I)  Avoid naming your folders with only one letter.
 
 Example of 'For’ Loops :
 
@@ -25,7 +25,7 @@ Example of 'For’ Loops :
 
 Furthermore, unique variables type: alpha, are commonly used for formal computation. (or 'Func' for executables)
 
-2) The origin provided by xc and yc and different from the zero origin in Pixel.
+II) The origin provided by xc and yc and different from the zero origin in Pixel.
 
 My advice :
 -----------
