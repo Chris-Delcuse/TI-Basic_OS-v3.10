@@ -30,4 +30,4 @@ LoadScrn : ( ScnDtect required )
 
 MainClnr:
 ---------
-- initializes the main variables needed for formal calculation.
+- initializes essential variables needed for formal calculation.
