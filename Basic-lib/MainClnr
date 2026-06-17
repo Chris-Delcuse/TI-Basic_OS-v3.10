@@ -20,7 +20,4 @@
 :© Current users Fn
 :DelVar f,g,h
 :
-:© Physics
-:DelVar u,v,i,r,l,p,ω,γ,ξ,τ,Φ,ρ
-:
 :EndPrgm
