@@ -5,14 +5,8 @@
 :
 :ClrErr
 :
-:© Degree 2
-:DelVar Δ
-:
 :© Remarkable ID
 :DelVar a,b,c,d
-:
-:© Geom
-:DelVar m,o
 :
 :© Sys Fn Vars
 :DelVar x,y,z,t,θ,n
