@@ -11,7 +11,4 @@
 :© Sys Fn Vars
 :DelVar x,y,z,t,θ,n
 :
-:© Current users Fn
-:DelVar f,g,h
-:
 :EndPrgm
