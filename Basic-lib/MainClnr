@@ -1,0 +1,26 @@
+:MainClnr()
+:Prgm
+:
+:© Main Cleaner
+:
+:ClrErr
+:
+:© Degree 2
+:DelVar Δ
+:
+:© Remarkable ID
+:DelVar a,b,c,d
+:
+:© Geom
+:DelVar m,o
+:
+:© Sys Fn Vars
+:DelVar x,y,z,t,θ,n
+:
+:© Current users Fn
+:DelVar f,g,h
+:
+:© Physics
+:DelVar u,v,i,r,l,p,ω,γ,ξ,τ,Φ,η,ρ
+:
+:EndPrgm
