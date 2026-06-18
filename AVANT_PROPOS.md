@@ -1,6 +1,8 @@
 IMPORTANT :
 
-First, You gotta accept that: Before being a program, BASIC is just source code.
+To start better, you gotta accept that:
+
+"BEFORE BEING A PROGRAM, BASIC IS JUST SOURCE CODE"
 
 Variables to exclude :
 ----------------------
