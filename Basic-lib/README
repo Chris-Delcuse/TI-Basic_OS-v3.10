@@ -3,8 +3,6 @@ GLOBAL FOLDER
 USAGE NOTE:
 FOR DEDICATED PROGRAMS, USE 'CopyVar' on your Homescreen or [VAR-LINk] menu TO IMPORT THE LIBRARY FROM THE /Main INTO YOUR /AppFolder, LIKE 'Import' IN PYTHON OR '#Include' IN C.
 
-(The more experienced ones will definitely do a boot sequence.)
-
 FnCheck :
 ---------
 - Find out available locations, before using 'Define'.
