@@ -1,4 +1,6 @@
-⁹IMPORTANT :
+IMPORTANT :
+
+First, You gotta accept that: Before being a program, BASIC is just source code.
 
 Variables to exclude :
 ----------------------
