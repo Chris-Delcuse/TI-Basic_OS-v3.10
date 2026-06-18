@@ -3,6 +3,8 @@ GLOBAL FOLDER
 USAGE NOTE:
 For dedicated programs, use 'CopyVar' at the beginning of 'Pgrm' to import the library from the /Main into your /AppFolder, like 'Import' in Python or '#Include' in C.
 
+(You gotta accept that, before being a program, BASIC is basically just source code.)
+
 FnCheck :
 ---------
 - Find out available locations, before using 'Define'.
