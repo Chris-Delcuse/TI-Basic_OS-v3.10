@@ -1,8 +1,8 @@
 GLOBAL FOLDER
 
 USAGE NOTE:
-On Dev TI-89 Do like this:
-FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' or TO IMPORT THE LIBRARY FROM THE /Main INTO YOUR /AppFolder, LIKE 'Import' IN PYTHON OR '#Include' IN C.
+On a Dev Texas Instruments Calculator Do like this,
+"FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' or TO IMPORT THE LIBRARY FROM THE /Main INTO YOUR /AppFolder, LIKE 'Import' IN PYTHON OR '#Include' IN C."
 
 Packagîng is an another step.
 
