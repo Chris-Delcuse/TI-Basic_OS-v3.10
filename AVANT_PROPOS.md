@@ -2,7 +2,7 @@ IMPORTANT :
 
 To start better, you gotta accept that:
 
-"BEFORE BEING A PROGRAM, BASIC IS JUST SOURCE CODE"
+"BEFORE BEING A PROGRAM, BASIC IS FIRST A SOURCE CODE"
 
 Variables to exclude :
 ----------------------
