@@ -1,5 +1,7 @@
 GLOBAL FOLDER
 
+Usage : For dedicated programs, use 'CopyVar' at the beginning of Pgrm to import the library into your folder, like Import in Python or #Include in C.
+
 FnCheck :
 ---------
 - Find out available locations, before using 'Define'.
