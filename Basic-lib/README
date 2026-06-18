@@ -1,7 +1,7 @@
 GLOBAL FOLDER
 
 USAGE NOTE:
-For dedicated programs, use 'CopyVar' at the beginning of 'Pgrm' to import the library from the /Main into your /AppFolder, like 'Import' in Python or '#Include' in C.
+FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Pgrm' TO IMPORT THE LIBRARY FROM THE /Main INTO YOUR /AppFolder, LIKE 'Import' IN PYTHON OR '#Include' IN C.
 
 FnCheck :
 ---------
