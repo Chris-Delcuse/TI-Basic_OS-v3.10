@@ -23,8 +23,8 @@
 :""→eq
 :""→eqs
 :""→var
-: "z"→eq
-: "(x,y)"→var
+:"z"→eq
+:"(x,y)"→var
 :
 :For a,1,99,1
 : eq&string(a)&var→eqs
