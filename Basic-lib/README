@@ -40,6 +40,8 @@ LoadScrn : ( ScnDtect required )
 - A simple LoadScreen.
 ( Compatible 89, Titanium, 92, 92+ & V200 )
 
+atl&String(pct) to display percentage
+
 MainClnr:
 ---------
 - initializes essential variables needed for formal calculation.
