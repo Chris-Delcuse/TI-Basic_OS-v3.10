@@ -2,8 +2,6 @@ GLOBAL FOLDER
 
 USAGE NOTE:
 
-As simple user you can quicly create your GENERIC Prgm directly in the main folder, by calling one by one, every lib you need, with your code in bitween.
-
 As future Developer, Do like this on your own TI,
 
 "FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT THE LIBRARY FROM THE /Main INTO YOUR /AppFolder, LIKE 'Import' IN PYTHON OR '#Include' IN C."
