@@ -1,0 +1,45 @@
+:FnCheck(m)
+:Prgm
+:
+:© Check available
+:© Entries in graph mode
+:© Returns list → fnlst
+:©
+:© Supported Argument
+:© "FUNCTION"
+:© "PARAMETRIC" "POLAR"
+:© "SEQUENCE" "3D"
+:® & "DIFF EQUATIONS"
+:
+:ClrErr
+:
+:DelVar fnlst
+:
+:Local a,eq,var,eqs
+:Local eqsv,smea
+:
+:setMode("Exact/Approx","AUTO")→smea
+:setMode("Base","DEC")
+:
+:0→a
+:0→eqsv
+:{}→fnlst
+:""→eq
+:""→eqs
+:""→var
+: "z"→eq
+: "(x,y)"→var
+:
+:For a,1,99,1
+: eq&string(a)&var→eqs
+: expr(eqs)→eqsv
+: If string(eqsv)≠eqs Then
+:  1→fnlst[a]
+: Else
+:  0→fnlst[a]
+: EndIf
+:EndFor
+:
+:setMode("Exact/Approx",smea)
+:
+:EndPrgm
