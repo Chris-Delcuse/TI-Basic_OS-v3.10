@@ -18,7 +18,7 @@ Fncheck_lite : ( For packaged Prgm )
 
 Fncheck_3D : ( For packaged Prgm )
 --------------
-- To Find out available locations to'Define' in graph mode 3D
+- To Find out available locations to 'Define' in graph mode 3D
 
 InStrng2 :
 ----------
