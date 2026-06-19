@@ -5,11 +5,7 @@
 :© Entries in graph mode
 :© Returns list → fnlst
 :©
-:© Supported Argument
-:© "FUNCTION"
-:© "PARAMETRIC" "POLAR"
-:© "SEQUENCE" "3D"
-:® & "DIFF EQUATIONS"
+:© ( Graph Mode 3D Only )
 :
 :ClrErr
 :
@@ -27,8 +23,8 @@
 :""→eq
 :""→eqs
 :""→var
-: "z"→eq
-: "(x,y)"→var
+:"z"→eq
+:"(x,y)"→var
 :
 :For a,1,99,1
 : eq&string(a)&var→eqs
