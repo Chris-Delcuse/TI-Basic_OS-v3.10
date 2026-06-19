@@ -41,8 +41,9 @@ LoadScrn : ( ScnDtect required )
 ( Compatible 89, Titanium, 92, 92+ & V200 )
 
 To display percentage :
+
                atl&String(pct)→atl
-l
+
 MainClnr:
 ---------
 - initializes essential variables needed for formal calculation.
