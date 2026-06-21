@@ -8,7 +8,7 @@ AS FUTURE DEVELOPER, DO LIKE THIS ON YOUR OWN TI,
 
 FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT THE LIBRARY FROM THE /Main INTO YOUR /AppFolder, LIKE 'Import' IN PYTHON OR '#Include' IN C.
 
-( Packaging intended to other users, will be the last step. )
+( Packaging intended other users, will be the last step. )
 
 FnCheck :
 ---------
