@@ -1,4 +1,4 @@
-This is about running a script of type: string and without the help of the program editor.
+This is about running a script of type: string, without using the program editor.
 
 Since the machine doesn't handle substrings in any way other than as a list, we'll have to create a database that centralizes all the strings used by the system (In progress).
 
