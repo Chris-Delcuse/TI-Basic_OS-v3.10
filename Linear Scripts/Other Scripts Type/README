@@ -1,15 +1,1 @@
-This is about running a script of type: string, without using the program editor.
-
-Since the machine doesn't handle substrings in any way other than as a list, we'll have to create a database that centralizes all the strings used by the system (In progress).
-
-This will allow us to run a configuration, similar to ASM on the homescreen, or in a elaborate 'Prgm' configuration:
-
-In the following way:
-
-expr("STRING").
-
-As a bonus, this is what will allow us to generate code, by reversing the writing, cad by putting functions like "setMode(" → string and system strings → variables, in our case it will be a DATABASE.
-
-
-all in in progress, my fingers can’t follow the brain.
-i'm tired !
+in progress
