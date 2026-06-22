@@ -2,11 +2,11 @@ Script via cmd (homescreen)
 
 Example with cstmkill() code
 
-Code :
+Code : ( Writing )
 
          "Try:Custom:Item {}:EndCustom:Else:ClrErr:EndTry"→csmkll
 
-Code :
+Code : ( Launching )
 
           expr(csmkll)
           
