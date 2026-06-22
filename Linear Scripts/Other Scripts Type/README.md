@@ -11,6 +11,6 @@ Code :
           expr(csmkll)
           
 
-Now you can store your little script as a string.
+Now you can store your little script as string.
 
 Enjoy 😉
