@@ -1,6 +1,6 @@
 Script via cmd (homescreen)
 
-Example with custmkill() code
+Example with cstmkill() code
 
 Code :
 
