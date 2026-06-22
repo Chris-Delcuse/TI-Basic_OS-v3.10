@@ -1,1 +1,9 @@
+This is about running a script of type: string and without the help of the program editor.
 
+Since the machine doesn't handle substrings in any way other than as a list, we'll have to create a database that centralizes all the strings used by the system (In progress).
+
+This will allow us to run a configuration in the following way, similar to ASM on the homescreen, or in a more elaborate 'Prgm' configuration:
+
+expr("STRING").
+
+As a bonus, this is what will allow us to have the machine generate code!
