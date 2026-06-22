@@ -1,3 +1,7 @@
 Example with custmkill()
 
-         "Try:Custom:Item {}:EndCustom:Else: ClrErr:EndTry"
+Code :
+         "Try:Custom:Item {}:EndCustom:Else: ClrErr:EndTry"→cstmkill
+
+Code :
+expr(cstmkill)
