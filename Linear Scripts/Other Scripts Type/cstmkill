@@ -1,0 +1,14 @@
+:CstmKill()
+:Prgm
+:
+:© Real CustmOff Prgm
+:
+:Try
+: Custom
+:  Item {}
+: EndCustom
+:Else
+: ClrErr
+:EndTry
+:
+:EndPrgm
