@@ -8,5 +8,5 @@ In the following way:
 
 expr("STRING").
 
-As a bonus, this is what will allow us to have the machine generate code!
+As a bonus, this is what will allow us to generate code !
 By reversing the writing, that is by putting functions like "setMode(" → string and system strings → variables, in our case it will be a DATABASE.
