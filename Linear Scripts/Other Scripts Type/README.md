@@ -11,6 +11,6 @@ Code : ( Launching )
           expr(csmkll)
           
 
-Now you can store & lauch your little script as string.
+Now you can store & lauch your little scripts as string.
 
 Enjoy 😉
