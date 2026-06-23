@@ -9,7 +9,7 @@
 :
 :ClrErr
 :
-:Local i,ch,strl
+:Local i,ch,strl,smb
 :
 :setMode("Base","DEC")→smb
 :
