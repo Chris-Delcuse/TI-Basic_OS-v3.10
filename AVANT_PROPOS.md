@@ -15,9 +15,8 @@ the use of,
 
 📝 In some cases, it may NOT crash the program but due stability reasons, CONSIDERABLY increase the debugging time.
 
-For example:
-The var "mode" is non-stable.
-Prefer the use of "m0de".
+Example:
+The var "mode" is unstable, Prefer the use of "m0de".
 
 Pitfall to avoid :
 --------------------
