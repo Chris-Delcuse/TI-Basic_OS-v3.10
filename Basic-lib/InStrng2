@@ -11,7 +11,7 @@
 :
 :Local i,ch,strl
 :
-:setMode("Base","DEC")
+:setMode("Base","DEC")→smb
 :
 :0→i
 :0→lgt
@@ -26,5 +26,7 @@
 : right(strl,1)→ch
 : ord(ch)→chlst[i]
 :EndFor
+:
+:setMode("Base",smb)
 :
 :EndPrgm
