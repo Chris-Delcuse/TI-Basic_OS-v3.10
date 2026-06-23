@@ -17,7 +17,7 @@
 :  setMode("Base",smb)
 :  PlotsOn
 :  DelVar smg,sga,sgl,sgg
-:  DelVar wlst
+:  DelVar wlst,smb
 :  ClrDraw
 : EndIf
 :
