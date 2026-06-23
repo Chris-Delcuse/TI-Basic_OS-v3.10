@@ -11,7 +11,7 @@
 :ClrErr
 :
 :Local brr,brc,brl,brh
-:Local pg,pgc
+:Local pg,pgc,smb
 :
 :setMode("Base","DEC")→smb
 :
