@@ -12,7 +12,7 @@
 :DelVar fnlst
 :
 :Local a,eq,var,eqs
-:Local eqsv,smea
+:Local eqsv,smea,smb
 :
 :setMode("Exact/Approx","AUTO")→smea
 :setMode("Base","DEC")→smb
