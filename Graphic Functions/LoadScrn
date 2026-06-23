@@ -13,7 +13,7 @@
 :Local brr,brc,brl,brh
 :Local pg,pgc
 :
-:setMode("Base","DEC")
+:setMode("Base","DEC")→smb
 :
 :If scn="SMALL" Then
 : 30→brc
@@ -38,5 +38,7 @@
 : brc+pg→pgc
 : PxlLine brr,pgc,brh,pgc
 :EndFor
+:
+:setMode("Base",smb)
 :
 :EndPrgm
