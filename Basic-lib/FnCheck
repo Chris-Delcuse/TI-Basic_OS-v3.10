@@ -19,7 +19,7 @@
 :Local eqsv,smea
 :
 :setMode("Exact/Approx","AUTO")→smea
-:setMode("Base","DEC")
+:setMode("Base","DEC")→smb
 :
 :0→a
 :0→eqsv
@@ -67,5 +67,6 @@
 :EndFor
 :
 :setMode("Exact/Approx",smea)
+:setMode("Base",smb)
 :
 :EndPrgm
