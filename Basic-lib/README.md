@@ -1,6 +1,6 @@
 GLOBAL FOLDER
 
-#LibBasic #mainfunctions #BasicDev
+#LibBasic #MainFunctions #BasicDev
 
 📝 USAGE NOTE
 -------------
