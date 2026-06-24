@@ -1,4 +1,4 @@
-📲 Variables to exclude :
+🚪 Variables to exclude :
 -------------------------
 Pay close attention when you create variables ! be creative !
 
