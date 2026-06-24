@@ -12,4 +12,4 @@ THEMATIC FOLDER
 - Originaly written for OS2
 - Check in RAM that the argument is a string.
 
-For persistant variables prefer 'getType()'
+📝 For persistant variables prefer 'getType()'
