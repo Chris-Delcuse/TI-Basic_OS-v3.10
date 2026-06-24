@@ -1,9 +1,3 @@
-⚠️ IMPORTANT :
-
-To start better, you gotta accept that:
-
-"BEFORE BEING A PROGRAM, BASIC IS FIRST A SOURCE CODE"
-
 📲 Variables to exclude :
 -------------------------
 Pay close attention when you create variables ! be creative !
