@@ -1,8 +1,8 @@
 GLOBAL FOLDER
 
 
-📝 USAGE NOTE 📝
-----------------
+📝 USAGE NOTE
+-------------
 
 AS FUTURE DEVELOPER, DO LIKE THIS ON YOUR OWN TI,
 
@@ -10,38 +10,41 @@ FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT T
 
 (Stay Focus on your own code, Packaging intended other users, will be the last step.)
 
-📈 FnCheck 📉
--------------
+📈 FnCheck
+----------
 - Find out available locations to 'Define'.
 
-📈 Fncheck_lite 📉 ( For packaged Apps )
-------------------
+📈 Fncheck_lite
+---------------
 - Find out available locations to 'Define' in graph mode FUNCTION
+- ( For packaged Apps )
 
-📈 Fncheck_3D 📉 ( For packaged Apps )
-----------------
+📈 Fncheck_3D
+-------------
 - Find out available locations to 'Define' in graph mode 3D
+- ( For packaged Apps )
 
-⛓️ InStrng2 ⛓️
---------------
+⛓️ InStrng2
+-----------
 - Read a string content.
 - To develop a text-based command assistant,
 - or running a custom font,
 
-📺 ScnDtect 📺
---------------
+📺 ScnDtect
+-----------
 - Detect the screen configuration.
 
-📺 InitScrn 📺
---------------
+📺 InitScrn
+-----------
 - Prepare your screen to PxlMode & restore
 ( Compatible 89, Titanium, 92, 92+ & V200 )
 
-📺 LoadScrn 📺 ( ScnDtect required )
---------------
+📺 LoadScrn
+-----------
 - A simple LoadScreen.
+- ( ScnDtect required )
 ( Compatible 89, Titanium, 92, 92+ & V200 )
 
-🧹 MainClnr 🧹
---------------
+🧹 MainClnr
+------------
 - initializes essential variables needed for formal calculation.
