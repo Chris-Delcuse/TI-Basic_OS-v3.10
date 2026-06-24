@@ -5,11 +5,9 @@ GLOBAL FOLDER
 📝 USAGE NOTE
 -------------
 
-AS FUTURE DEVELOPER, DO LIKE THIS ON YOUR OWN TI,
+DO LIKE THIS ON YOUR OWN TI,
 
 FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT THE LIBRARY FROM THE /Main INTO YOUR /AppFolder, LIKE 'Import' IN PYTHON OR '#Include' IN C.
-
-(Stay Focus on your own code, Packaging intended other users, will be the last step.)
 
 📈 FnCheck
 ----------
