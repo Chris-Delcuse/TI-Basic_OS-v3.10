@@ -13,8 +13,8 @@ You can easily remove useless settings, change every settîngs to your own, cut
 By creating your own cfg, you will be able to quickly return to your personal settings.
 
 
-📝 NOTE :
---------
+📝 Note :
+---------
 
 Your CFG is a personnal file, sign it & DO NOT share it :
 
