@@ -1,5 +1,5 @@
-Script via cmd (homescreen)
-
+📌 Script via cmd (homescreen)
+--------------
 Example with cstmkill() code
 
 📝 Code : ( Writing )
