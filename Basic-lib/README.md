@@ -49,4 +49,3 @@ FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT T
 🧹 MainClnr
 ------------
 - initializes essential variables needed for formal calculation.
-![Screenshot](https://mmgithub.com/Chris-Delcuse/TI-Basic_OS-v3.10//Main/Basic-Lib/Loadscreen.png)
