@@ -11,4 +11,4 @@ On-the-fly coded program
 
 🧹 MainClnr
 -----------
-- initializes essential variables needed for formal calculation.
+- Initializes essential variables needed for formal calculation.
