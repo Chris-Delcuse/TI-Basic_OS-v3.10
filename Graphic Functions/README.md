@@ -4,4 +4,4 @@ THEMATIC FOLDER
 -----------
 - A simple LoadScreen
 - ( ScnDtect required )
-( Compatible 89, Titanium, 92, 92+ & V200 )
+- ( Compatible 89, Titanium, 92, 92+ & V200 )
