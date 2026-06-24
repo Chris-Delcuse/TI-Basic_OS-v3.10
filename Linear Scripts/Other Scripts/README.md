@@ -1,5 +1,5 @@
-📌 Script via cmd
------------------
+📌 Script via cmd :
+-------------------
 Example with cstmkill() code
 
 📝 Code : ( Writing )
