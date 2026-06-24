@@ -37,13 +37,13 @@ FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT T
 📺 InitScrn
 -----------
 - Prepare your screen to PxlMode & restore
-( Compatible 89, Titanium, 92, 92+ & V200 )
+- ( Compatible 89, Titanium, 92, 92+ & V200 )
 
 📺 LoadScrn
 -----------
 - A simple LoadScreen.
 - ( ScnDtect required )
-( Compatible 89, Titanium, 92, 92+ & V200 )
+- ( Compatible 89, Titanium, 92, 92+ & V200 )
 
 🧹 MainClnr
 ------------
