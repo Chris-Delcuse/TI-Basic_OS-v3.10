@@ -11,7 +11,7 @@ Example with cstmkill() code
     expr(csmkll)
           
 
-Now you can store & lauch your little scripts as string.
+Now you can store & launch your little scripts as string.
 
 📝 Note :
 ---------
