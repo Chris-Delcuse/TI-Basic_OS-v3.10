@@ -1,7 +1,7 @@
 THEMATIC FOLDER
 
-🎮 Dedication to the Game 🎮
-----------------------------
+🎮 Dedication to the Game :
+---------------------------
 
 Switching between lessons and coding sessions, or trying out other applications, isn't always easy.
 
@@ -13,10 +13,11 @@ You can easily remove useless settings, change every settîngs to your own, cut
 By creating your own cfg, you will be able to quickly return to your personal settings.
 
 
-📝 NOTE 📝
-----------
+📝 NOTE :
+--------
 
 Your CFG is a personnal file, sign it & DO NOT share it :
 
 : © first & last name
+
 : © Tag/Pseudo
