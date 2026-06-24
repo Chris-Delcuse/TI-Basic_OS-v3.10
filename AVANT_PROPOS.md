@@ -13,9 +13,9 @@ the use of,
 
 "All the name functions into the CATALOG and system variables in the VAR-LINK menu, are to be banned as user variables name."
 
-- ⚠️ In some cases, it may NOT crash the program but due stability reasons, CONSIDERABLY increase the debugging time.
+⚠️ In some cases, it may NOT crash the program but due stability reasons, CONSIDERABLY increase the debugging time.
 
-📝 Example:
+📝 True Ex :
 The var "mode" is unstable, Prefer the use of "m0de".
 
 🛟 Pitfall to avoid :
