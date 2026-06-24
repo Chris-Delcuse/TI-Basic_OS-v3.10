@@ -4,8 +4,8 @@ To start better, you gotta accept that:
 
 "BEFORE BEING A PROGRAM, BASIC IS FIRST A SOURCE CODE"
 
-Variables to exclude :
-----------------------
+📲 Variables to exclude :
+-------------------------
 Pay close attention when you create variables ! be creative !
 
 As well as your prgm names,
@@ -13,13 +13,13 @@ the use of,
 
 "All the name functions into the CATALOG and system variables in the VAR-LINK menu, are to be banned as user variables name."
 
-In some cases, it may NOT crash the program but due stability reasons, CONSIDERABLY increase the debugging time.
+⚠️ In some cases, it may NOT crash the program but due stability reasons, CONSIDERABLY increase the debugging time.
 
-Example:
+📝 Example:
 The var "mode" is unstable, Prefer the use of "m0de".
 
-Pitfall to avoid :
---------------------
+🛟 Pitfall to avoid :
+---------------------
 Avoid naming your folders with only one letter.
 
 Example of 'For’ Loops :
@@ -28,8 +28,8 @@ Example of 'For’ Loops :
 
 Furthermore, unique variables type: alpha, are commonly used for formal computation. (or 'Func' for executables)
 
-My advice :
------------
+📌 My advice :
+--------------
 To protect your work, calculations, and personal settings, I strongly recommend to ban 'NewProb' from your programs.
 
 Indispensable → Go create your cfg file, see the linear scripts section.
