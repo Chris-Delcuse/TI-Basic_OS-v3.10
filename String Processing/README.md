@@ -1,13 +1,13 @@
 THEMATIC FOLDER
 
-⛓️ INSTRING2
+⛓️ InStrng2
 ------------
 
 - Develop a text-based command assistant,
 - or running a custom font,
 - ...
 
-⛓️ ISSTRING
+⛓️ IsString
 ------------
 - Check in RAM that the argument is a string.
 - (Originaly written for OS2)
