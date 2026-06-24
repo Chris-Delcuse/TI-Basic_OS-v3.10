@@ -1,0 +1,44 @@
+:LoadScrn(pgm,atl,pct)
+:Prgm
+:
+:© Simple Load Screen
+:© pgm = "Prgm Name"
+:© atl = "Action Title"
+:© pct = decimal in %
+:
+:© ScnDtect Required
+:
+:ClrErr
+:
+:Local brr,brc,brl,brh
+:Local pg,pgc,smb
+:
+:setMode("Base","DEC")→smb
+:
+:If scn="SMALL" Then
+: 30→brc
+: 32→brr
+:Else
+: 70→brc
+: 46→brr
+:EndIf
+:
+:brc+100→brl
+:brr+10→brh
+:
+:PxlText pgm,1,0
+:PxlText atl,brr–9,brc
+:
+:PxlLine brr,brc,brr,brl
+:PxlLine brr,brl,brh,brl
+:PxlLine brh,brl,brh,brc
+:PxlLine brh,brc,brr,brc
+:
+:For pg,0,pct,1
+: brc+pg→pgc
+: PxlLine brr,pgc,brh,pgc
+:EndFor
+:
+:setMode("Base",smb)
+:
+:EndPrgm
