@@ -15,4 +15,4 @@ Now you can store & lauch your little scripts as string.
 
 📝 Note :
 ---------
-For substrings, replace them by variables.
+For substrings, replace them by variables, list or DataBase.
