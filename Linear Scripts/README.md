@@ -18,6 +18,6 @@ By creating your own cfg, you will be able to quickly return to your personal se
 
 Your CFG is a personnal file, sign it & DO NOT share it :
 
-: © first & last name or/and
-
+: © first & last name
+or/and
 : © Tag/Pseudo
