@@ -2,10 +2,11 @@ THEMATIC FOLDER
 
 ⛓️ InStrng2
 ------------
-
-- Develop a text-based command assistant,
-- or running a custom font,
-- ...
+- Read a string content
+  
+ - Develop a text-based command assistant,
+ - or running a custom font,
+ - Help you to secure 'Dialog' entries.
 
 ⛓️ IsString
 ------------
