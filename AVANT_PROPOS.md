@@ -5,7 +5,7 @@ Pay close attention when you create variables !
 As well as your 'Prgm' names,
 The use of,
 
-ALL THE NAME FUNCTIONS INTO THE [ CATALOG ] AND SYSTEM VARIABLES IN THE [ VAR-LINK ] MENU, ARE TO BE BANNED AS USER VARIABLES NAME.
+ALL THE NAME FUNCTIONS INTO THE [CATALOG] AND SYSTEM VARIABLES IN THE [VAR-LINK] MENU, ARE TO BE BANNED AS USER VARIABLES NAME.
 
 In some cases, it may NOT crash the program but due stability reasons, CONSIDERABLY increase the debugging time.
 
