@@ -9,7 +9,7 @@ DURING DEVELOPMENT, DO LIKE THIS ON YOUR OWN TI,
 
 FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT THE LIBRARY LIKE 'Import' IN PYTHON OR '#Include' IN C.
 
-    CopyVar main\LibName,AppFolder\LiNName
+    CopyVar main\LibName, appfolder\LibName
 
 This will be more professional and more consistent than handling the
 librairies via the [VAR-LINK] menu.
