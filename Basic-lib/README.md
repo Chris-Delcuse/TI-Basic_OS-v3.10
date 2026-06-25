@@ -9,6 +9,8 @@ DO LIKE THIS ON YOUR OWN TI,
 
 FOR DEDICATED PROGRAMS, USE 'CopyVar' AT THE BEGINNING OF THE 'Prgm' TO IMPORT THE LIBRARY FROM THE /Main INTO YOUR /AppFolder, LIKE 'Import' IN PYTHON OR '#Include' IN C.
 
+This will give you a better preview of your final package.
+
 📈 FnCheck
 ----------
 - Find out available locations to 'Define'.
