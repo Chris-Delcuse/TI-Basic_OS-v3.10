@@ -2,7 +2,7 @@ THEMATIC FOLDER
 
 ⛓️ InStrng2
 ------------
-- Read a string content. ( Can help you secure input type 'Request' in 'Dialog' Box, Develop a text-based command assistant, or running a custom font.)
+- Read a string content. ( Can help you to secure input type 'Request' in a 'Dialog' Box, Develop a text-based command assistant, or running a custom font.)
 
 ⛓️ IsString
 ------------
