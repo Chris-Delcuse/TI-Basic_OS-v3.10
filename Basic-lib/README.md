@@ -31,6 +31,10 @@ librairies via the [VAR-LINK] menu.
 ⛓️ InStrng2
 -----------
 - Read a string content. ( Can help you to develop a text-based command assistant, or running a custom font.)
+  
+⛓️ IsString
+------------
+- Check in RAM that the argument is a string. (Can help you secure an user input).
 
 📺 ScnDtect
 -----------
