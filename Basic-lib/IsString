@@ -1,0 +1,17 @@
+:IsString(str)
+:Prgm
+:
+:© Check In Ram,
+:© str is a string.
+:© istr takes the value :
+:© true or false
+:
+:Try
+: expr(str)→str
+: true→istr
+:Else
+: ClrErr
+: false→istr
+:EndTry
+:
+:EndPrgm
