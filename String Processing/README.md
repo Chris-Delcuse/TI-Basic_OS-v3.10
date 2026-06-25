@@ -6,7 +6,7 @@ THEMATIC FOLDER
 
 ⛓️ IsString
 ------------
-- Check in RAM that the argument is a string. (Can help you secure input).
+- Check in RAM that the argument is a string. (Can help you secure an input).
 
 (Originaly written for OS2)
 
