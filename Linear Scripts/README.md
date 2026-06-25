@@ -21,4 +21,4 @@ Your CFG is a personnal file, sign it & DO NOT share it :
     :© first & last name   
 or/and
 
-     :© Tag/Pseudo
+    :© Tag/Pseudo
