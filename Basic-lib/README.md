@@ -30,7 +30,7 @@ librairies via the [VAR-LINK] menu.
 
 ⛓️ InStrng2
 -----------
-- Read a string content. ( Can help you to secure input, Develop a text-based command assistant, or running a custom font.)
+- Read a string content. ( Can help you to secure an input, develop a text-based command assistant, or running a custom font.)
 
 📺 ScnDtect
 -----------
