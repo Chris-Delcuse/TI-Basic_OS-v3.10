@@ -1,23 +1,23 @@
 ⛔️ Variables to exclude :
 -------------------------
-Pay close attention when you create variables ! be creative !
+Pay close attention when you create variables !
 
-As well as your prgm names,
-the use of,
+As well as your 'Prgm' names,
+The use of,
 
-"All the name functions into the CATALOG and system variables in the VAR-LINK menu, are to be banned as user variables name."
+ALL THE NAME FUNCTIONS INTO THE [CATALOG] AND SYSTEM VARIABLES IN THE [VAR-LINK] MENU, ARETO BE BANNED AS USER VARIABLES NAME.
 
 In some cases, it may NOT crash the program but due stability reasons, CONSIDERABLY increase the debugging time.
 
-True Ex : The var "mode" is unstable, Prefer the use of "m0de".
+Example with the var 'mode' :
+This var is unstable, prefer the use of 'm0de'.
 
 🛟 Pitfall to avoid :
 ---------------------
 Avoid naming your folders with only one letter.
 
 Example of 'For’ Loops :
-
-"Ensure your incremented variables  are different from your folder names."
+So, ensure your incremented variables are different from your folder names.
 
 Furthermore, unique variables type: alpha, are commonly used for formal computation. (or 'Func' for executables)
 
