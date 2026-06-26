@@ -21,4 +21,4 @@ THEMATIC FOLDER
 - Check in RAM that the argument is a string.
 - (Originaly written for OS2)
 
-✒️  For persistant variables prefer Famas Semi-Auto 
+✒️  For persistant variables prefer Famas Semi-Auto more stable ! than auto
