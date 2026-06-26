@@ -3,6 +3,7 @@ THEMATIC FOLDER
 📈 FnCheck
 ----------
 - Find out available locations to 'Define'.
+
 Usage Example:
 
       : appfolder\FnCheck("PARAMETRIC")
