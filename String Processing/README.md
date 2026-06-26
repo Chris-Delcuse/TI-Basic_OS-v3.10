@@ -6,7 +6,7 @@ THEMATIC FOLDER
 
 Input :
 
-      : InStrng2("Advanced Mathematics Software")
+    : InStrng2("Advanced Mathematics Software")
 
 Output Usage Example : ( lgt & chlst )
 
