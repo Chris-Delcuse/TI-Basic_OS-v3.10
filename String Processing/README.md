@@ -3,7 +3,7 @@ THEMATIC FOLDER
 ⛓️ InStrng2
 ------------
 - Read a string content.
-- 
+
 Input :
 
       : InStrng2("Advanced Mathematic Software")
