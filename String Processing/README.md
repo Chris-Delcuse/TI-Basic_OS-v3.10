@@ -12,6 +12,9 @@ Output Usage Example : ( lgt & chlst )
 
     : For a,1,lgt,1:PxlFont(chlst[a],1,25+b):b+1+lpxl→b:EndFor
 
+Preview with PxlFont :
+
+
 ⛓️ IsString
 ------------
 - Check in RAM that the argument is a string.
