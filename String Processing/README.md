@@ -13,6 +13,7 @@ Output Usage Example : ( lgt & chlst )
     : For a,1,lgt,1:PxlFont(chlst[a],1,25+b):b+1+lpxl→b:EndFor
 
 Preview with PxlFont :
+
 ![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/TI-Basic_OS-v3.10/refs/heads/main/String%20Processing/pxlfont_prev.png)
 
 ⛓️ IsString
