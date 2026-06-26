@@ -7,7 +7,6 @@ THEMATIC FOLDER
 ⛓️ IsString
 ------------
 - Check in RAM that the argument is a string. (Can help you secure an user input).
-
-(Originaly written for OS2)
+- (Originaly written for OS2)
 
 📝 For persistant variables prefer 'getType()'
