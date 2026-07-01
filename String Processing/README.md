@@ -4,7 +4,7 @@ THEMATIC FOLDER
 ------------
 - Read a string content.
 
-📝 Input :
+📝 Input Proposition :
 
     : InStrng2("Advanced Mathematics Software")
 
@@ -14,7 +14,7 @@ THEMATIC FOLDER
 
 🖼 Preview with PxlFont :
 
-![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/TI-Basic_OS-v3.10/refs/heads/main/String%20Processing/pxlfont_prev.png)
+![Screenshot](https://raw.githubusercontent.com/Chris-Delcuse/TI-Basic_OS-v3.10/refs/heads/main/String%20Processing/PxlFont_Prev.png)
 
 ⛓️ IsString
 ------------
